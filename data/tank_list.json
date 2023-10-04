@@ -1,0 +1,6959 @@
+{
+    "czech_K型试验车": {
+        "tank_nation": "czech",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "K型试验车",
+        "tank_name_s": "K型试验车",
+        "tank_url": "Cz06_Kolohousenka",
+        "tank_id": 113
+    },
+    "sweden_SFM-21": {
+        "tank_nation": "sweden",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "SFM-21",
+        "tank_name_s": "SFM-21",
+        "tank_url": "S05_Strv_M21_29",
+        "tank_id": 129
+    },
+    "italy_菲亚特3000": {
+        "tank_nation": "italy",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "菲亚特3000",
+        "tank_name_s": "菲亚特3000",
+        "tank_url": "It04_Fiat_3000",
+        "tank_id": 161
+    },
+    "usa_M3 \"斯图亚特\"": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "M3 \"斯图亚特\"",
+        "tank_name_s": "M3 \"斯图亚特\"",
+        "tank_url": "A03_M3_Stuart",
+        "tank_id": 289
+    },
+    "china_62式": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "62式",
+        "tank_name_s": "62式",
+        "tank_url": "Ch02_Type62",
+        "tank_id": 305
+    },
+    "czech_LT vz.35": {
+        "tank_nation": "czech",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "LT vz.35",
+        "tank_name_s": "LT vz.35",
+        "tank_url": "Cz03_LT_vz35",
+        "tank_id": 369
+    },
+    "sweden_SM-38": {
+        "tank_nation": "sweden",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "SM-38",
+        "tank_name_s": "SM-38",
+        "tank_url": "S03_Strv_M38",
+        "tank_id": 385
+    },
+    "poland_TKS z n.k.m.20mm": {
+        "tank_nation": "poland",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "TKS z n.k.m.20mm",
+        "tank_name_s": "TKS 20",
+        "tank_url": "Pl01_TKS_20mm",
+        "tank_id": 401
+    },
+    "italy_L6/40": {
+        "tank_nation": "italy",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "L6/40",
+        "tank_name_s": "L6/40",
+        "tank_url": "It05_Carro_L6_40",
+        "tank_id": 417
+    },
+    "usa_T1 “科宁汉姆”": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "T1 “科宁汉姆”",
+        "tank_name_s": "T1",
+        "tank_url": "A01_T1_Cunningham",
+        "tank_id": 545
+    },
+    "france_雷诺 FT": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "雷诺 FT",
+        "tank_name_s": "雷诺 FT",
+        "tank_url": "F01_RenaultFT",
+        "tank_id": 577
+    },
+    "uk_M2": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "M2",
+        "tank_name_s": "M2",
+        "tank_url": "GB14_M2",
+        "tank_id": 593
+    },
+    "japan_雷诺乙型": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "雷诺乙型",
+        "tank_name_s": "雷诺乙型",
+        "tank_url": "J01_NC27",
+        "tank_id": 609
+    },
+    "czech_LT 38": {
+        "tank_nation": "czech",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "LT 38",
+        "tank_name_s": "LT 38",
+        "tank_url": "Cz10_LT_vz38",
+        "tank_id": 625
+    },
+    "sweden_SM-40L": {
+        "tank_nation": "sweden",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "SM-40L",
+        "tank_name_s": "SM-40L",
+        "tank_url": "S12_Strv_M40",
+        "tank_id": 641
+    },
+    "ussr_BT-7": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "BT-7",
+        "tank_name_s": "BT-7",
+        "tank_url": "R03_BT-7",
+        "tank_id": 769
+    },
+    "germany_35(t)": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "35(t)",
+        "tank_name_s": "35(t)",
+        "tank_url": "G07_Pz35t",
+        "tank_id": 785
+    },
+    "japan_九五轻战": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "九五轻战",
+        "tank_name_s": "九五轻战",
+        "tank_url": "J03_Ha_Go",
+        "tank_id": 865
+    },
+    "ussr_BT-2": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "BT-2",
+        "tank_name_s": "BT-2",
+        "tank_url": "R08_BT-2",
+        "tank_id": 1025
+    },
+    "poland_4TP": {
+        "tank_nation": "poland",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "4TP",
+        "tank_name_s": "4TP",
+        "tank_url": "Pl14_4TP",
+        "tank_id": 1169
+    },
+    "china_雷诺 NC-31": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "雷诺 NC-31",
+        "tank_name_s": "雷诺 NC-31",
+        "tank_url": "Ch06_Renault_NC31",
+        "tank_id": 1329
+    },
+    "france_霍奇基斯H35": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "霍奇基斯H35",
+        "tank_name_s": "霍奇基斯 H35",
+        "tank_url": "F12_Hotchkiss_H35",
+        "tank_id": 1345
+    },
+    "uk_“斯图亚特”I-IV": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "“斯图亚特”I-IV",
+        "tank_name_s": "“斯图亚特”I-IV",
+        "tank_url": "GB15_Stuart_I",
+        "tank_id": 1361
+    },
+    "poland_7TP": {
+        "tank_nation": "poland",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "7TP",
+        "tank_name_s": "7TP",
+        "tank_url": "Pl09_7TP",
+        "tank_id": 1425
+    },
+    "france_夏尔 D1": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "夏尔 D1",
+        "tank_name_s": "夏尔 D1",
+        "tank_url": "F02_D1",
+        "tank_id": 1601
+    },
+    "poland_10TP": {
+        "tank_nation": "poland",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "10TP",
+        "tank_name_s": "10TP",
+        "tank_url": "Pl06_10TP",
+        "tank_id": 1681
+    },
+    "usa_M2 轻型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "M2 轻型坦克",
+        "tank_name_s": "M2 轻型坦克",
+        "tank_url": "A02_M2_lt",
+        "tank_id": 1825
+    },
+    "poland_14TP": {
+        "tank_nation": "poland",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "14TP",
+        "tank_name_s": "14TP",
+        "tank_url": "Pl07_14TP",
+        "tank_id": 1937
+    },
+    "ussr_A-20": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "A-20",
+        "tank_name_s": "A-20",
+        "tank_url": "R12_A-20",
+        "tank_id": 2049
+    },
+    "germany_II号坦克": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "II号坦克",
+        "tank_name_s": "II号坦克",
+        "tank_url": "G06_PzII",
+        "tank_id": 2065
+    },
+    "uk_十字军": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "十字军",
+        "tank_name_s": "十字军",
+        "tank_url": "GB20_Crusader",
+        "tank_id": 2129
+    },
+    "japan_97M": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "97M",
+        "tank_name_s": "97M",
+        "tank_url": "J07_Chi_Ha",
+        "tank_id": 2145
+    },
+    "china_维克斯 Mk.E": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "维克斯 Mk.E",
+        "tank_name_s": "维克斯 Mk.E",
+        "tank_url": "Ch07_Vickers_MkE_Type_BT26",
+        "tank_id": 2353
+    },
+    "japan_九八轻战": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "九八轻战",
+        "tank_name_s": "九八轻战",
+        "tank_url": "J04_Ke_Ni",
+        "tank_id": 2401
+    },
+    "france_AMX 40": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "AMX 40",
+        "tank_name_s": "AMX 40",
+        "tank_url": "F14_AMX40",
+        "tank_id": 2881
+    },
+    "japan_五式轻战": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "五式轻战",
+        "tank_name_s": "五式轻战",
+        "tank_url": "J06_Ke_Ho",
+        "tank_id": 2913
+    },
+    "ussr_T-46": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "T-46",
+        "tank_name_s": "T-46",
+        "tank_url": "R22_T-46",
+        "tank_id": 3073
+    },
+    "germany_\"早期试验车\"": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "\"早期试验车\"",
+        "tank_name_s": "\"早期试验车\"",
+        "tank_url": "G12_Ltraktor",
+        "tank_id": 3089
+    },
+    "china_M5A1": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "M5A1",
+        "tank_name_s": "M5A1",
+        "tank_url": "Ch09_M5",
+        "tank_id": 3121
+    },
+    "japan_97L": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "97L",
+        "tank_name_s": "97L",
+        "tank_url": "J02_Te_Ke",
+        "tank_id": 3169
+    },
+    "ussr_MS-1": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "MS-1",
+        "tank_name_s": "MS-1",
+        "tank_url": "R11_MS-1",
+        "tank_id": 3329
+    },
+    "germany_38(t)型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "38(t)型",
+        "tank_name_s": "38(t)",
+        "tank_url": "G08_Pz38t",
+        "tank_id": 3345
+    },
+    "china_WZ131": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "WZ131",
+        "tank_name_s": "WZ131",
+        "tank_url": "Ch16_WZ_131",
+        "tank_id": 3377
+    },
+    "china_WZ132": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "WZ132",
+        "tank_name_s": "WZ132",
+        "tank_url": "Ch17_WZ131_1_WZ132",
+        "tank_id": 3889
+    },
+    "china_97式": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "97式",
+        "tank_name_s": "97式",
+        "tank_url": "Ch08_Type97_Chi_Ha",
+        "tank_id": 4401
+    },
+    "ussr_T-26": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T-26",
+        "tank_name_s": "T-26",
+        "tank_url": "R09_T-26",
+        "tank_id": 4609
+    },
+    "germany_III号E型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "III号E型",
+        "tank_name_s": "III号E型",
+        "tank_url": "G102_Pz_III",
+        "tank_id": 4881
+    },
+    "china_59-16": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "59-16",
+        "tank_name_s": "59-16",
+        "tank_url": "Ch15_59_16",
+        "tank_id": 4913
+    },
+    "france_AMX 13 90": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "AMX 13 90",
+        "tank_name_s": "AMX 13 90",
+        "tank_url": "F17_AMX_13_90",
+        "tank_id": 4929
+    },
+    "uk_瓦伦丁": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "瓦伦丁",
+        "tank_name_s": "瓦伦丁",
+        "tank_url": "GB04_Valentine",
+        "tank_id": 4945
+    },
+    "usa_M5 \"斯图亚特\"": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "M5 \"斯图亚特\"",
+        "tank_name_s": "M5 \"斯图亚特\"",
+        "tank_url": "A22_M5_Stuart",
+        "tank_id": 5153
+    },
+    "france_AMX 13 75": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "AMX 13 75",
+        "tank_name_s": "AMX 13 75",
+        "tank_url": "F16_AMX_13_75",
+        "tank_id": 5185
+    },
+    "uk_巡洋坦克 Mk.I": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 1,
+        "tank_name": "巡洋坦克 Mk.I",
+        "tank_name_s": "巡洋坦克 Mk.I",
+        "tank_url": "GB03_Cruiser_Mk_I",
+        "tank_id": 5201
+    },
+    "germany_VK1602\"豹\"式": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "VK1602\"豹\"式",
+        "tank_name_s": "VK1602\"豹\"式",
+        "tank_url": "G26_VK1602",
+        "tank_id": 5393
+    },
+    "usa_M7": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "M7",
+        "tank_name_s": "M7",
+        "tank_url": "A23_M7_med",
+        "tank_id": 5409
+    },
+    "china_WZ132A": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "WZ132A",
+        "tank_name_s": "WZ132A",
+        "tank_url": "Ch28_WZ_132A",
+        "tank_id": 5681
+    },
+    "china_WZ132-1": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "WZ132-1",
+        "tank_name_s": "WZ132-1",
+        "tank_url": "Ch29_Type_62C_prot",
+        "tank_id": 5937
+    },
+    "france_AMX 38": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "AMX 38",
+        "tank_name_s": "AMX 38",
+        "tank_url": "F13_AMX38",
+        "tank_id": 5953
+    },
+    "germany_II型\"山猫\"": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "II型\"山猫\"",
+        "tank_name_s": "II型\"山猫\"",
+        "tank_url": "G25_PzII_Luchs",
+        "tank_id": 6161
+    },
+    "france_AMX 12 t": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "AMX 12 t",
+        "tank_name_s": "AMX 12 t",
+        "tank_url": "F15_AMX_12t",
+        "tank_id": 6465
+    },
+    "uk_A13 盟约者": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "A13 盟约者",
+        "tank_name_s": "A13 盟约者",
+        "tank_url": "GB60_Covenanter",
+        "tank_id": 6481
+    },
+    "uk_巡洋坦克Mk.II": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "巡洋坦克Mk.II",
+        "tank_name_s": "Mk.II巡洋坦克",
+        "tank_url": "GB69_Cruiser_Mk_II",
+        "tank_id": 6993
+    },
+    "uk_巡洋坦克Mk.IV": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "巡洋坦克Mk.IV",
+        "tank_name_s": "巡洋坦克Mk.IV",
+        "tank_url": "GB59_Cruiser_Mk_IV",
+        "tank_id": 7505
+    },
+    "uk_巡洋坦克Mk.III": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "巡洋坦克Mk.III",
+        "tank_name_s": "巡洋坦克Mk.III",
+        "tank_url": "GB58_Cruiser_Mk_III",
+        "tank_id": 7761
+    },
+    "germany_38 nA": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "38 nA",
+        "tank_name_s": "38 nA",
+        "tank_url": "G52_Pz38_NA",
+        "tank_id": 8209
+    },
+    "ussr_T-50": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "T-50",
+        "tank_name_s": "T-50",
+        "tank_url": "R41_T-50",
+        "tank_id": 9473
+    },
+    "usa_M24“霞飞”": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "M24“霞飞”",
+        "tank_name_s": "\"霞飞\"",
+        "tank_url": "A34_M24_Chaffee",
+        "tank_id": 9761
+    },
+    "germany_VK 2801": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "VK 2801",
+        "tank_name_s": "VK2801",
+        "tank_url": "G66_VK2801",
+        "tank_id": 10001
+    },
+    "germany_I号C型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "I号C型",
+        "tank_name_s": "I号C型",
+        "tank_url": "G63_PzI_ausf_C",
+        "tank_id": 12561
+    },
+    "germany_I号坦克": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "I号坦克",
+        "tank_name_s": "I号坦克",
+        "tank_url": "G53_PzI",
+        "tank_id": 12817
+    },
+    "germany_II号G型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "II号G型",
+        "tank_name_s": "II号G型",
+        "tank_url": "G82_Pz_II_AusfG",
+        "tank_id": 13073
+    },
+    "france_AMX ELC bis": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "AMX ELC bis",
+        "tank_name_s": "AMX ELC bis",
+        "tank_url": "F62_ELC_AMX",
+        "tank_id": 14145
+    },
+    "germany_“黑豹”侦察车": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "“黑豹”侦察车",
+        "tank_name_s": "“黑豹”侦察车",
+        "tank_url": "G85_Auf_Panther",
+        "tank_id": 14353
+    },
+    "ussr_T-70": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "T-70",
+        "tank_name_s": "T-70",
+        "tank_url": "R43_T-70",
+        "tank_id": 15105
+    },
+    "usa_T21": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "T21",
+        "tank_name_s": "T21",
+        "tank_url": "A71_T21",
+        "tank_id": 15137
+    },
+    "france_FCM 36": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "FCM 36",
+        "tank_name_s": "FCM 36",
+        "tank_url": "F50_FCM36_20t",
+        "tank_id": 15169
+    },
+    "ussr_T-60": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T-60",
+        "tank_name_s": "T-60",
+        "tank_url": "R42_T-60",
+        "tank_id": 15361
+    },
+    "usa_T71 DA": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "T71 DA",
+        "tank_name_s": "T71 DA",
+        "tank_url": "A103_T71E1",
+        "tank_id": 15649
+    },
+    "ussr_T-80": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "T-80",
+        "tank_name_s": "T-80",
+        "tank_url": "R44_T80",
+        "tank_id": 15873
+    },
+    "france_雷诺 R35": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "雷诺 R35",
+        "tank_name_s": "雷诺 R35",
+        "tank_url": "F49_RenaultR35",
+        "tank_id": 15937
+    },
+    "ussr_MT-25": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "MT-25",
+        "tank_name_s": "MT-25",
+        "tank_url": "R101_MT25",
+        "tank_id": 16641
+    },
+    "usa_T37": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "T37",
+        "tank_name_s": "T37",
+        "tank_url": "A94_T37",
+        "tank_id": 16673
+    },
+    "france_AMX 13 105": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "AMX 13 105",
+        "tank_name_s": "AMX 13 105",
+        "tank_url": "F88_AMX_13_105",
+        "tank_id": 17217
+    },
+    "france_查狄伦 12t": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "查狄伦 12t",
+        "tank_name_s": "查狄伦 12t",
+        "tank_url": "F87_Batignolles-Chatillon_12t",
+        "tank_id": 17473
+    },
+    "usa_M41“斗牛犬”": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "M41“斗牛犬”",
+        "tank_name_s": "“斗牛犬”",
+        "tank_url": "A97_M41_Bulldog",
+        "tank_id": 17953
+    },
+    "france_潘哈德 AMD 178B": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "潘哈德 AMD 178B",
+        "tank_name_s": "AMD 178B",
+        "tank_url": "F109_AMD_Panhard_178B",
+        "tank_id": 17985
+    },
+    "ussr_T-54轻型": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "T-54轻型",
+        "tank_name_s": "T-54轻型",
+        "tank_url": "R109_T54S",
+        "tank_id": 18177
+    },
+    "usa_T49": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "T49",
+        "tank_name_s": "T49",
+        "tank_url": "A100_T49",
+        "tank_id": 18209
+    },
+    "france_霍奇基斯 EBR": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "霍奇基斯 EBR",
+        "tank_name_s": "霍奇基斯 EBR",
+        "tank_url": "F107_Hotchkiss_EBR",
+        "tank_id": 18241
+    },
+    "ussr_LTTB": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "LTTB",
+        "tank_name_s": "LTTB",
+        "tank_url": "R107_LTB",
+        "tank_id": 18433
+    },
+    "germany_Ru251": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "Ru251",
+        "tank_name_s": "Ru251",
+        "tank_url": "G103_RU_251",
+        "tank_id": 18449
+    },
+    "france_潘哈德 AML 山猫 6x6": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "潘哈德 AML 山猫 6x6",
+        "tank_name_s": "潘哈德 AML 山猫 6x6",
+        "tank_url": "F110_Lynx_6x6",
+        "tank_id": 18497
+    },
+    "france_潘哈德 EBR 90": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "潘哈德 EBR 90",
+        "tank_name_s": "潘哈德 EBR 90",
+        "tank_url": "F100_Panhard_EBR_90",
+        "tank_id": 18753
+    },
+    "germany_SPIC": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "SPIC",
+        "tank_name_s": "SPIC",
+        "tank_url": "G113_SP_I_C",
+        "tank_id": 18961
+    },
+    "france_潘哈德 EBR 105": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "潘哈德 EBR 105",
+        "tank_name_s": "潘哈德 EBR 105",
+        "tank_url": "F108_Panhard_EBR_105",
+        "tank_id": 19009
+    },
+    "ussr_T-100 LT": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "T-100 LT",
+        "tank_name_s": "T-100 LT",
+        "tank_url": "R132_VNII_100LT",
+        "tank_id": 19201
+    },
+    "ussr_LTG": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "LTG",
+        "tank_name_s": "LTG",
+        "tank_url": "R131_Tank_Gavalov",
+        "tank_id": 19457
+    },
+    "usa_XM551“谢里登”": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "XM551“谢里登”",
+        "tank_name_s": "“谢里登”",
+        "tank_url": "A116_XM551",
+        "tank_id": 19489
+    },
+    "usa_T71 CMCE": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "T71 CMCE",
+        "tank_name_s": "T71 CMCE",
+        "tank_url": "A112_T71E2R",
+        "tank_id": 19745
+    },
+    "germany_Rhm PW": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "Rhm PW",
+        "tank_name_s": "Rhm PW",
+        "tank_url": "G125_Spz_57_Rh",
+        "tank_id": 19985
+    },
+    "germany_HWK12": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "HWK12",
+        "tank_name_s": "HWK12",
+        "tank_url": "G126_HWK_12",
+        "tank_id": 20241
+    },
+    "ussr_BT-5": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "BT-5",
+        "tank_name_s": "BT-5",
+        "tank_url": "R174_BT-5",
+        "tank_id": 23041
+    },
+    "france_夏尔75": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "夏尔75",
+        "tank_name_s": "夏尔75",
+        "tank_url": "F118_Char_Mle_75",
+        "tank_id": 32321
+    },
+    "germany_35R": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "35R",
+        "tank_name_s": "35R",
+        "tank_url": "G160_Pz_Kpfw_35_R_mit_T_26_Turm",
+        "tank_id": 43281
+    },
+    "france_AM 39 让德隆-索玛": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "AM 39 让德隆-索玛",
+        "tank_name_s": "AM 39 让德隆-索玛",
+        "tank_url": "F111_AM39_Gendron_Somua",
+        "tank_id": 43329
+    },
+    "germany_M15": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "M15",
+        "tank_name_s": "M15",
+        "tank_url": "G161_Pz_Kpfw_M15_38_t",
+        "tank_id": 43537
+    },
+    "france_潘哈德 EBR 75(FL10)": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "潘哈德 EBR 75(FL10)",
+        "tank_name_s": "潘哈德EBR75(FL10)",
+        "tank_url": "F106_Panhard_EBR_75_Mle1954",
+        "tank_id": 43585
+    },
+    "france_AMR 35": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "AMR 35",
+        "tank_name_s": "AMR 35",
+        "tank_url": "F42_AMR_35",
+        "tank_id": 43841
+    },
+    "ussr_T-116": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "T-116",
+        "tank_name_s": "T-116",
+        "tank_url": "R161_T_116",
+        "tank_id": 44801
+    },
+    "ussr_T-50-2": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "T-50-2",
+        "tank_name_s": "T-50-2",
+        "tank_url": "R160_T_50_2",
+        "tank_id": 45313
+    },
+    "ussr_LT-432": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "LT-432",
+        "tank_name_s": "LT-432",
+        "tank_url": "R158_LT_432",
+        "tank_id": 45569
+    },
+    "germany_HWK 30": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "HWK 30",
+        "tank_name_s": "HWK 30",
+        "tank_url": "G140_HWK_30",
+        "tank_id": 47377
+    },
+    "germany_MKA": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "MKA",
+        "tank_name_s": "MKA",
+        "tank_url": "G139_MKA",
+        "tank_id": 47633
+    },
+    "ussr_T-45": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T-45",
+        "tank_name_s": "T-45",
+        "tank_url": "R125_T_45",
+        "tank_id": 50945
+    },
+    "germany_M4190 GF": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "M4190 GF",
+        "tank_name_s": "M4190 GF",
+        "tank_url": "G120_M41_90_GrandFinal",
+        "tank_id": 50961
+    },
+    "usa_M24E2 超级霞飞": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "M24E2 超级霞飞",
+        "tank_name_s": "M24E2 超级霞飞",
+        "tank_url": "A134_M24E2_SuperChaffee",
+        "tank_id": 50977
+    },
+    "usa_T2 轻型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T2 轻型坦克",
+        "tank_name_s": "T2 轻型坦克",
+        "tank_url": "A19_T2_lt",
+        "tank_id": 51489
+    },
+    "germany_II号J型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "II号J型",
+        "tank_name_s": "II号J型",
+        "tank_url": "G36_PzII_J",
+        "tank_id": 51729
+    },
+    "japan_九八轻战乙型": {
+        "tank_nation": "japan",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "九八轻战乙型",
+        "tank_name_s": "九八轻战乙型",
+        "tank_url": "J05_Ke_Ni_B",
+        "tank_id": 51809
+    },
+    "sweden_L-60": {
+        "tank_nation": "sweden",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "L-60",
+        "tank_name_s": "L-60",
+        "tank_url": "S15_L_60",
+        "tank_id": 51841
+    },
+    "usa_MTLS-1G14": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "MTLS-1G14",
+        "tank_name_s": "MTLS-1G14",
+        "tank_url": "A33_MTLS-1G14",
+        "tank_id": 52001
+    },
+    "ussr_BT-SV": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "BT-SV",
+        "tank_name_s": "BT-SV",
+        "tank_url": "R34_BT-SV",
+        "tank_id": 52225
+    },
+    "ussr_“瓦伦丁” L": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "“瓦伦丁” L",
+        "tank_name_s": "“瓦伦丁” L",
+        "tank_url": "R31_Valentine_LL",
+        "tank_id": 52481
+    },
+    "germany_38H735(f)": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "38H735(f)",
+        "tank_name_s": "38H735(f)",
+        "tank_url": "G33_H39_captured",
+        "tank_id": 52497
+    },
+    "ussr_M3 \"斯图亚特\"L": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "M3 \"斯图亚特\"L",
+        "tank_name_s": "M3 \"斯图亚特\"L",
+        "tank_url": "R67_M3_LL",
+        "tank_id": 52737
+    },
+    "usa_M22 \"蝉\"式": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "M22 \"蝉\"式",
+        "tank_name_s": "M22 \"蝉\"式",
+        "tank_url": "A43_M22_Locust",
+        "tank_id": 52769
+    },
+    "ussr_T-127": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "T-127",
+        "tank_name_s": "T-127",
+        "tank_url": "R56_T-127",
+        "tank_id": 53505
+    },
+    "usa_T1E6": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T1E6",
+        "tank_name_s": "T1E6",
+        "tank_url": "A74_T1_E6",
+        "tank_id": 53537
+    },
+    "ussr_MK VII \"领主\"L": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "MK VII \"领主\"L",
+        "tank_name_s": "MK VII \"领主\"L",
+        "tank_url": "R84_Tetrarch_LL",
+        "tank_id": 54529
+    },
+    "germany_T-15": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "T-15",
+        "tank_name_s": "T-15",
+        "tank_url": "G50_T-15",
+        "tank_id": 54801
+    },
+    "uk_Mk.VI C": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "Mk.VI C",
+        "tank_name_s": "Mk.VI C",
+        "tank_url": "GB76_Mk_VIC",
+        "tank_id": 54865
+    },
+    "usa_T7战斗车": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "T7战斗车",
+        "tank_name_s": "T7战斗车",
+        "tank_url": "A93_T7_Combat_Car",
+        "tank_id": 55073
+    },
+    "ussr_LTP": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "LTP",
+        "tank_name_s": "LTP",
+        "tank_url": "R86_LTP",
+        "tank_id": 56577
+    },
+    "usa_T92 lt": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "T92 lt",
+        "tank_name_s": "T92 lt",
+        "tank_url": "A99_T92_LT",
+        "tank_id": 57889
+    },
+    "uk_FV1066 森拉克": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "FV1066 森拉克",
+        "tank_name_s": "FV1066 森拉克",
+        "tank_url": "GB101_FV1066_Senlac",
+        "tank_id": 58449
+    },
+    "uk_GSOR3301 AVR FS": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 9,
+        "tank_name": "GSOR3301 AVR FS",
+        "tank_name_s": "GSOR3301 AVR FS",
+        "tank_url": "GB103_GSOR3301_AVR_FS",
+        "tank_id": 58705
+    },
+    "france_AMX 13 (FL 11)": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 5,
+        "tank_name": "AMX 13 (FL 11)",
+        "tank_name_s": "AMX 13 FL11",
+        "tank_url": "F124_AMX_13FL11",
+        "tank_id": 58945
+    },
+    "uk_曼蒂科尔": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 10,
+        "tank_name": "曼蒂科尔",
+        "tank_name_s": "曼蒂科尔",
+        "tank_url": "GB100_Manticore",
+        "tank_id": 58961
+    },
+    "uk_LHMTV": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "LHMTV",
+        "tank_name_s": "LHMTV",
+        "tank_url": "GB102_LHMTV",
+        "tank_id": 59473
+    },
+    "uk_GSR 3301\"塞特\"": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "GSR 3301\"塞特\"",
+        "tank_name_s": "\"塞特\"",
+        "tank_url": "GB104_GSR_3301_Setter",
+        "tank_id": 59729
+    },
+    "germany_II号D型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 2,
+        "tank_name": "II号D型",
+        "tank_name_s": "II号D型",
+        "tank_url": "G108_PzKpfwII_AusfD",
+        "tank_id": 60433
+    },
+    "ussr_BT-7A": {
+        "tank_nation": "ussr",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "BT-7A",
+        "tank_name_s": "BT-7A",
+        "tank_url": "R105_BT_7A",
+        "tank_id": 60929
+    },
+    "uk_A25 H.H. I": {
+        "tank_nation": "uk",
+        "tank_type": "lightTank",
+        "tank_rank": 4,
+        "tank_name": "A25 H.H. I",
+        "tank_name_s": "A25 H.H. I",
+        "tank_url": "GB116_Harry_Hopkins_I",
+        "tank_id": 61009
+    },
+    "france_ELC EVEN 90": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "ELC EVEN 90",
+        "tank_name_s": "ELC EVEN 90",
+        "tank_url": "F97_ELC_EVEN_90",
+        "tank_id": 61505
+    },
+    "china_M41D": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "M41D",
+        "tank_name_s": "M41D",
+        "tank_url": "Ch42_WalkerBulldog_M41D",
+        "tank_id": 62001
+    },
+    "france_AMX 13 57 GF": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "AMX 13 57 GF",
+        "tank_name_s": "AMX 13 57 GF",
+        "tank_url": "F69_AMX13_57_100_GrandFinal",
+        "tank_id": 63297
+    },
+    "germany_托蒂III型": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 3,
+        "tank_name": "托蒂III型",
+        "tank_name_s": "托蒂III型",
+        "tank_url": "G117_Toldi_III",
+        "tank_id": 63505
+    },
+    "france_AMX 13 57": {
+        "tank_nation": "france",
+        "tank_type": "lightTank",
+        "tank_rank": 7,
+        "tank_name": "AMX 13 57",
+        "tank_name_s": "AMX 13 57",
+        "tank_url": "F69_AMX13_57_100",
+        "tank_id": 63809
+    },
+    "germany_M4190": {
+        "tank_nation": "germany",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "M4190",
+        "tank_name_s": "M4190",
+        "tank_url": "G120_M41_90",
+        "tank_id": 64017
+    },
+    "usa_M41“斗牛犬” FL": {
+        "tank_nation": "usa",
+        "tank_type": "lightTank",
+        "tank_rank": 8,
+        "tank_name": "M41“斗牛犬” FL",
+        "tank_name_s": "“斗牛犬” FL",
+        "tank_url": "A97_M41_Bulldog_FL",
+        "tank_id": 64033
+    },
+    "china_64式": {
+        "tank_nation": "china",
+        "tank_type": "lightTank",
+        "tank_rank": 6,
+        "tank_name": "64式",
+        "tank_name_s": "64式",
+        "tank_url": "Ch24_Type64",
+        "tank_id": 64817
+    },
+    "ussr_T-34": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "T-34",
+        "tank_name_s": "T-34",
+        "tank_url": "R04_T-34",
+        "tank_id": 1
+    },
+    "china_59式": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "59式",
+        "tank_name_s": "59式",
+        "tank_url": "Ch01_Type59",
+        "tank_id": 49
+    },
+    "uk_维克斯 Mk.I": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 1,
+        "tank_name": "维克斯 Mk.I",
+        "tank_name_s": "维克斯 Mk.I",
+        "tank_url": "GB01_Medium_Mark_I",
+        "tank_id": 81
+    },
+    "poland_“贵宾犬”": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "“贵宾犬”",
+        "tank_name_s": "“贵宾犬”",
+        "tank_url": "Pl03_PzV_Poland",
+        "tank_id": 145
+    },
+    "france_夏尔 D2": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "夏尔 D2",
+        "tank_name_s": "夏尔 D2",
+        "tank_url": "F03_D2",
+        "tank_id": 321
+    },
+    "uk_维克斯 Mk.II": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 2,
+        "tank_name": "维克斯 Mk.II",
+        "tank_name_s": "维克斯 Mk.II",
+        "tank_url": "GB05_Vickers_Medium_Mk_II",
+        "tank_id": 337
+    },
+    "japan_试制97M": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 2,
+        "tank_name": "试制97M",
+        "tank_name_s": "试制97M",
+        "tank_url": "J15_Chi_Ni",
+        "tank_id": 353
+    },
+    "china_黄金59式": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "黄金59式",
+        "tank_name_s": "黄金59式",
+        "tank_url": "Ch01_Type59_Gold",
+        "tank_id": 561
+    },
+    "italy_M14/41": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 2,
+        "tank_name": "M14/41",
+        "tank_name_s": "M14/41",
+        "tank_url": "It06_M14_41",
+        "tank_id": 673
+    },
+    "uk_“玛蒂尔达”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "“玛蒂尔达”",
+        "tank_name_s": "“玛蒂尔达”",
+        "tank_url": "GB07_Matilda",
+        "tank_id": 849
+    },
+    "czech_ST 39": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "ST 39",
+        "tank_name_s": "ST 39",
+        "tank_url": "Cz11_V_8_H",
+        "tank_id": 881
+    },
+    "sweden_Lago": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "Lago",
+        "tank_name_s": "Lago",
+        "tank_url": "S04_Lago_I",
+        "tank_id": 897
+    },
+    "italy_M15/42": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "M15/42",
+        "tank_name_s": "M15/42",
+        "tank_url": "It03_M15_42",
+        "tank_id": 929
+    },
+    "usa_M4A1 \"谢尔曼\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "M4A1 \"谢尔曼\"",
+        "tank_name_s": "M4A1",
+        "tank_url": "A05_M4_Sherman",
+        "tank_id": 1057
+    },
+    "china_T-34-1": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T-34-1",
+        "tank_name_s": "T-34-1",
+        "tank_url": "Ch04_T34_1",
+        "tank_id": 1073
+    },
+    "uk_“克伦威尔”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "“克伦威尔”",
+        "tank_name_s": "“克伦威尔”",
+        "tank_url": "GB21_Cromwell",
+        "tank_id": 1105
+    },
+    "japan_五式中战": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "五式中战",
+        "tank_name_s": "五式中战",
+        "tank_url": "J11_Chi_Ri",
+        "tank_id": 1121
+    },
+    "czech_斯柯达 T24": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "斯柯达 T24",
+        "tank_name_s": "斯柯达 T24",
+        "tank_url": "Cz09_T_24",
+        "tank_id": 1137
+    },
+    "sweden_SM-42": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "SM-42",
+        "tank_name_s": "SM-42",
+        "tank_url": "S02_Strv_M42",
+        "tank_id": 1153
+    },
+    "italy_P26/40": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "P26/40",
+        "tank_name_s": "P26/40",
+        "tank_url": "It07_P26_40",
+        "tank_id": 1185
+    },
+    "germany_“黑豹”": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "“黑豹”",
+        "tank_name_s": "“黑豹”",
+        "tank_url": "G03_PzV_Panther",
+        "tank_id": 1297
+    },
+    "usa_M4A3E8 \"谢尔曼\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A3E8 \"谢尔曼\"",
+        "tank_name_s": "M4A3E8 \"谢尔曼\"",
+        "tank_url": "A06_M4A3E8_Sherman",
+        "tank_id": 1313
+    },
+    "japan_三式中战": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "三式中战",
+        "tank_name_s": "三式中战",
+        "tank_url": "J08_Chi_Nu",
+        "tank_id": 1377
+    },
+    "czech_斯柯达 T25": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "斯柯达 T25",
+        "tank_name_s": "斯柯达 T25",
+        "tank_url": "Cz08_T_25",
+        "tank_id": 1393
+    },
+    "sweden_Strv 74": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "Strv 74",
+        "tank_name_s": "Strv 74",
+        "tank_url": "S07_Strv_74",
+        "tank_id": 1409
+    },
+    "italy_P.43": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "P.43",
+        "tank_name_s": "P.43",
+        "tank_url": "It11_P43",
+        "tank_id": 1441
+    },
+    "ussr_T-28": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "T-28",
+        "tank_name_s": "T-28",
+        "tank_url": "R06_T-28",
+        "tank_id": 1537
+    },
+    "usa_T20": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T20",
+        "tank_name_s": "T20",
+        "tank_url": "A07_T20",
+        "tank_id": 1569
+    },
+    "china_T-34-2": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-34-2",
+        "tank_name_s": "T-34-2",
+        "tank_url": "Ch05_T34_2",
+        "tank_id": 1585
+    },
+    "uk_“格兰特”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "“格兰特”",
+        "tank_name_s": "“格兰特”",
+        "tank_url": "GB17_Grant_I",
+        "tank_id": 1617
+    },
+    "japan_一式中战": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "一式中战",
+        "tank_name_s": "一式中战",
+        "tank_url": "J09_Chi_He",
+        "tank_id": 1633
+    },
+    "czech_T-34-100": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T-34-100",
+        "tank_name_s": "T-34-100",
+        "tank_url": "Cz05_T34_100",
+        "tank_id": 1649
+    },
+    "sweden_Leo": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "Leo",
+        "tank_name_s": "Leo",
+        "tank_url": "S13_Leo",
+        "tank_id": 1665
+    },
+    "italy_P.43 B": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "P.43 B",
+        "tank_name_s": "P.43 B",
+        "tank_url": "It10_P43_bis",
+        "tank_id": 1697
+    },
+    "china_WZ120": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "WZ120",
+        "tank_name_s": "WZ120",
+        "tank_url": "Ch18_WZ-120",
+        "tank_id": 1841
+    },
+    "japan_四式中战": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "四式中战",
+        "tank_name_s": "四式中战",
+        "tank_url": "J10_Chi_To",
+        "tank_id": 1889
+    },
+    "czech_TVP VTU": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "TVP VTU",
+        "tank_name_s": "TVP VTU",
+        "tank_url": "Cz07_TVP_46",
+        "tank_id": 1905
+    },
+    "italy_P.43 T": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "P.43 T",
+        "tank_name_s": "P.43 T",
+        "tank_url": "It09_P43_ter",
+        "tank_id": 1953
+    },
+    "czech_斯柯达 T50": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "斯柯达 T50",
+        "tank_name_s": "斯柯达 T50",
+        "tank_url": "Cz02_TVP_T50",
+        "tank_id": 2161
+    },
+    "poland_25TP K II": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "25TP K II",
+        "tank_name_s": "25TP K II",
+        "tank_url": "Pl12_25TP_KSUST_II",
+        "tank_id": 2193
+    },
+    "italy_P.44 \"黑豹\"": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "P.44 \"黑豹\"",
+        "tank_name_s": "P.44 \"黑豹\"",
+        "tank_url": "It14_P44_Pantera",
+        "tank_id": 2209
+    },
+    "uk_维克斯Mk.III": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "维克斯Mk.III",
+        "tank_name_s": "维克斯Mk.III",
+        "tank_url": "GB06_Vickers_Medium_Mk_III",
+        "tank_id": 2385
+    },
+    "czech_TVP T50": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "TVP T50",
+        "tank_name_s": "TVP T50",
+        "tank_url": "Cz04_T50_51",
+        "tank_id": 2417
+    },
+    "poland_40TP H": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "40TP H",
+        "tank_name_s": "40TP H",
+        "tank_url": "Pl10_40TP_Habicha",
+        "tank_id": 2449
+    },
+    "italy_B标准型": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "B标准型",
+        "tank_name_s": "B标准型",
+        "tank_url": "It12_Prototipo_Standard_B",
+        "tank_id": 2465
+    },
+    "ussr_T-34-85": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "T-34-85",
+        "tank_name_s": "T-34-85",
+        "tank_url": "R07_T-34-85",
+        "tank_id": 2561
+    },
+    "germany_VK3001(H)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "VK3001(H)",
+        "tank_name_s": "VK3001(H)",
+        "tank_url": "G13_VK3001H",
+        "tank_id": 2577
+    },
+    "japan_STA-1": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "STA-1",
+        "tank_name_s": "STA-1",
+        "tank_url": "J13_STA_1",
+        "tank_id": 2657
+    },
+    "italy_PM40/65": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "PM40/65",
+        "tank_name_s": "PM40/65",
+        "tank_url": "It08_Progetto_M40_mod_65",
+        "tank_id": 2721
+    },
+    "usa_M3 \"李\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "M3 \"李\"",
+        "tank_name_s": "M3 \"李\"",
+        "tank_url": "A04_M3_Grant",
+        "tank_id": 3105
+    },
+    "japan_六一式": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "六一式",
+        "tank_name_s": "六一式",
+        "tank_url": "J14_Type_61",
+        "tank_id": 3425
+    },
+    "france_查狄伦 25t": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "查狄伦 25t",
+        "tank_name_s": "查狄伦 25t",
+        "tank_url": "F18_Bat_Chatillon25t",
+        "tank_id": 3649
+    },
+    "uk_“萤火虫”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "“萤火虫”",
+        "tank_name_s": "“萤火虫”",
+        "tank_url": "GB19_Sherman_Firefly",
+        "tank_id": 3665
+    },
+    "japan_STB-1": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "STB-1",
+        "tank_name_s": "STB-1",
+        "tank_url": "J16_ST_B1",
+        "tank_id": 3681
+    },
+    "poland_DS PZInz": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "DS PZInz",
+        "tank_name_s": "DS PZInz",
+        "tank_url": "Pl17_DS_PZlnz",
+        "tank_id": 3729
+    },
+    "poland_B.U.G.I.": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "B.U.G.I.",
+        "tank_name_s": "B.U.G.I.",
+        "tank_url": "Pl18_BUGI",
+        "tank_id": 3985
+    },
+    "germany_VK3002(DB)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "VK3002(DB)",
+        "tank_name_s": "VK3002(DB)",
+        "tank_url": "G24_VK3002DB",
+        "tank_id": 4113
+    },
+    "china_121": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "121",
+        "tank_name_s": "121",
+        "tank_url": "Ch19_121",
+        "tank_id": 4145
+    },
+    "poland_CS-44": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "CS-44",
+        "tank_name_s": "CS-44",
+        "tank_url": "Pl20_CS_44",
+        "tank_id": 4241
+    },
+    "ussr_T-44": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-44",
+        "tank_name_s": "T-44",
+        "tank_url": "R20_T-44",
+        "tank_id": 4353
+    },
+    "germany_III号J型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "III号J型",
+        "tank_name_s": "III号J型",
+        "tank_url": "G10_PzIII_AusfJ",
+        "tank_id": 4369
+    },
+    "france_雷诺 G1": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "雷诺 G1",
+        "tank_name_s": "雷诺 G1",
+        "tank_url": "F11_Renault_G1R",
+        "tank_id": 4417
+    },
+    "poland_CS-53": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "CS-53",
+        "tank_name_s": "CS-53",
+        "tank_url": "Pl23_CS_53",
+        "tank_id": 4497
+    },
+    "china_T-34*": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "T-34*",
+        "tank_name_s": "T-34*",
+        "tank_url": "Ch21_T34",
+        "tank_id": 4657
+    },
+    "usa_M2": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "M2",
+        "tank_name_s": "M2 中型坦克",
+        "tank_url": "A25_M2_med",
+        "tank_id": 4897
+    },
+    "sweden_UDES 14 Alt 5": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "UDES 14 Alt 5",
+        "tank_name_s": "UDES 14 5",
+        "tank_url": "S29_UDES_14_5",
+        "tank_id": 4993
+    },
+    "china_58式": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "58式",
+        "tank_name_s": "58式",
+        "tank_url": "Ch20_Type58",
+        "tank_id": 5169
+    },
+    "sweden_UDES 16": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "UDES 16",
+        "tank_name_s": "UDES 16",
+        "tank_url": "S27_UDES_16",
+        "tank_id": 5249
+    },
+    "poland_CS-63": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "CS-63",
+        "tank_name_s": "CS-63",
+        "tank_url": "Pl21_CS_63",
+        "tank_id": 5265
+    },
+    "uk_彗星": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "彗星",
+        "tank_name_s": "彗星",
+        "tank_url": "GB22_Comet",
+        "tank_id": 5457
+    },
+    "sweden_UDES 15/16": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "UDES 15/16",
+        "tank_name_s": "UDES 15/16",
+        "tank_url": "S28_UDES_15_16",
+        "tank_id": 5505
+    },
+    "usa_T2中型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 2,
+        "tank_name": "T2中型坦克",
+        "tank_name_s": "T2 中型坦克",
+        "tank_url": "A24_T2_med",
+        "tank_id": 5665
+    },
+    "france_查狄伦 25a": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "查狄伦 25a",
+        "tank_name_s": "查狄伦 25a",
+        "tank_url": "F75_Char_de_25t",
+        "tank_id": 5697
+    },
+    "uk_百夫长(逊邱伦)Mk.VII": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "百夫长(逊邱伦)Mk.VII",
+        "tank_name_s": "百夫长 Mk.VII",
+        "tank_url": "GB24_Centurion_Mk3",
+        "tank_id": 5713
+    },
+    "usa_M26 \"潘兴\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "M26 \"潘兴\"",
+        "tank_name_s": "M26 \"潘兴\"",
+        "tank_url": "A35_Pershing",
+        "tank_id": 5921
+    },
+    "uk_百夫长(逊邱伦)Mk.I": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "百夫长(逊邱伦)Mk.I",
+        "tank_name_s": "百夫长 Mk.I",
+        "tank_url": "GB23_Centurion",
+        "tank_id": 5969
+    },
+    "japan_八九中战": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 2,
+        "tank_name": "八九中战",
+        "tank_name_s": "八九中战",
+        "tank_url": "J26_Type_89",
+        "tank_id": 5985
+    },
+    "germany_III/IV号坦克": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "III/IV号坦克",
+        "tank_name_s": "III/IV号坦克",
+        "tank_url": "G28_PzIII_IV",
+        "tank_id": 6417
+    },
+    "ussr_T-43": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T-43",
+        "tank_name_s": "T-43",
+        "tank_url": "R23_T-43",
+        "tank_id": 6657
+    },
+    "uk_百夫长 AX": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "百夫长 AX",
+        "tank_name_s": "百夫长 AX",
+        "tank_url": "GB86_Centurion_Action_X",
+        "tank_id": 7249
+    },
+    "ussr_T-54": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "T-54",
+        "tank_name_s": "T-54",
+        "tank_url": "R40_T-54",
+        "tank_id": 7937
+    },
+    "poland_CS-59": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "CS-59",
+        "tank_name_s": "CS-59",
+        "tank_url": "Pl22_CS_59",
+        "tank_id": 8081
+    },
+    "germany_“黑豹”II": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "“黑豹”II",
+        "tank_name_s": "“黑豹”II",
+        "tank_url": "G64_Panther_II",
+        "tank_id": 8465
+    },
+    "ussr_KV-13": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "KV-13",
+        "tank_name_s": "KV-13",
+        "tank_url": "R46_KV-13",
+        "tank_id": 8961
+    },
+    "usa_M46 \"巴顿\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "M46 \"巴顿\"",
+        "tank_name_s": "M46 \"巴顿\"",
+        "tank_url": "A63_M46_Patton",
+        "tank_id": 8993
+    },
+    "usa_M4A3E2“小飞象”": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A3E2“小飞象”",
+        "tank_name_s": "“小飞象”",
+        "tank_url": "A36_Sherman_Jumbo",
+        "tank_id": 10017
+    },
+    "germany_E-50": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "E-50",
+        "tank_name_s": "E-50",
+        "tank_url": "G54_E-50",
+        "tank_id": 10257
+    },
+    "usa_T23E3": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T23E3",
+        "tank_name_s": "T23E3",
+        "tank_url": "A86_T23E3",
+        "tank_id": 11809
+    },
+    "ussr_A-43": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "A-43",
+        "tank_name_s": "A-43",
+        "tank_url": "R57_A43",
+        "tank_id": 12289
+    },
+    "germany_E-50M": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "E-50M",
+        "tank_name_s": "E-50M",
+        "tank_url": "G73_E50_Ausf_M",
+        "tank_id": 12305
+    },
+    "ussr_A-44": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "A-44",
+        "tank_name_s": "A-44",
+        "tank_url": "R59_A44",
+        "tank_id": 12545
+    },
+    "usa_M4改进型": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "M4改进型",
+        "tank_name_s": "M4改进型",
+        "tank_url": "A78_M4_Improved",
+        "tank_id": 12577
+    },
+    "uk_“谢尔曼”III": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "“谢尔曼”III",
+        "tank_name_s": "“谢尔曼”III",
+        "tank_url": "GB50_Sherman_III",
+        "tank_id": 12881
+    },
+    "france_索玛 S35": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "索玛 S35",
+        "tank_name_s": "索玛 S35",
+        "tank_url": "F44_Somua_S35",
+        "tank_id": 13121
+    },
+    "ussr_416工程": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "416工程",
+        "tank_name_s": "416工程",
+        "tank_url": "R60_Object416",
+        "tank_id": 13313
+    },
+    "usa_T26E4 超级潘兴": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T26E4 超级潘兴",
+        "tank_name_s": "T26E4 超级潘兴",
+        "tank_url": "A80_T26_E4_SuperPershing",
+        "tank_id": 13345
+    },
+    "germany_VK 2001(D)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "VK 2001(D)",
+        "tank_name_s": "VK 2001(D)",
+        "tank_url": "G86_VK2001DB",
+        "tank_id": 13585
+    },
+    "ussr_T-62A": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "T-62A",
+        "tank_name_s": "T-62A",
+        "tank_url": "R87_T62A",
+        "tank_id": 13825
+    },
+    "germany_\"IDA坦克方案\"": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "\"IDA坦克方案\"",
+        "tank_name_s": "\"IDA坦克方案\"",
+        "tank_url": "G88_Indien_Panzer",
+        "tank_id": 13841
+    },
+    "germany_VK3001(D)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "VK3001(D)",
+        "tank_name_s": "VK3001(D)",
+        "tank_url": "G87_VK3002DB_V1",
+        "tank_id": 14097
+    },
+    "usa_M48A5": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "M48A5",
+        "tank_name_s": "M48A5",
+        "tank_url": "A120_M48A5",
+        "tank_id": 14113
+    },
+    "germany_“豹”I": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "“豹”I",
+        "tank_name_s": "“豹”I",
+        "tank_url": "G89_Leopard1",
+        "tank_id": 14609
+    },
+    "usa_T69": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T69",
+        "tank_name_s": "T69",
+        "tank_url": "A90_T69",
+        "tank_id": 14625
+    },
+    "germany_“豹”I原型车": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "“豹”I原型车",
+        "tank_name_s": "“豹”I原型车",
+        "tank_url": "G91_Pro_Ag_A",
+        "tank_id": 14865
+    },
+    "france_SARL 42": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "SARL 42",
+        "tank_name_s": "SARL 42",
+        "tank_url": "F70_SARL42",
+        "tank_id": 14913
+    },
+    "france_AMX 30B": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "AMX 30B",
+        "tank_name_s": "AMX 30B",
+        "tank_url": "F72_AMX_30",
+        "tank_id": 15425
+    },
+    "uk_酋长 T95": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "酋长 T95",
+        "tank_name_s": "酋长 T95",
+        "tank_url": "GB87_Chieftain_T95_turret",
+        "tank_id": 15441
+    },
+    "ussr_907工程": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "907工程",
+        "tank_name_s": "907工程",
+        "tank_url": "R95_Object_907",
+        "tank_id": 15617
+    },
+    "france_AMX 30原型车": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "AMX 30原型车",
+        "tank_name_s": "AMX 30原型车",
+        "tank_url": "F71_AMX_30_prototype",
+        "tank_id": 15681
+    },
+    "germany_VK3002(M)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "VK3002(M)",
+        "tank_name_s": "VK3002(M)",
+        "tank_url": "G96_VK3002M",
+        "tank_id": 15889
+    },
+    "usa_M60": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "M60",
+        "tank_name_s": "M60",
+        "tank_url": "A92_M60",
+        "tank_id": 15905
+    },
+    "uk_骑士": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "骑士",
+        "tank_name_s": "骑士",
+        "tank_url": "GB107_Cavalier",
+        "tank_id": 16209
+    },
+    "ussr_140工程": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "140工程",
+        "tank_name_s": "140工程",
+        "tank_url": "R97_Object_140",
+        "tank_id": 16897
+    },
+    "germany_IV号A型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "IV号A型",
+        "tank_name_s": "IV号A型",
+        "tank_url": "G83_Pz_IV_AusfA",
+        "tank_id": 17169
+    },
+    "germany_IV号D型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "IV号D型",
+        "tank_name_s": "IV号D型",
+        "tank_url": "G80_Pz_IV_AusfD",
+        "tank_id": 17425
+    },
+    "ussr_430工程II型": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "430工程II型",
+        "tank_name_s": "430工程II型",
+        "tank_url": "R104_Object_430_II",
+        "tank_id": 17665
+    },
+    "germany_IV号H型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "IV号H型",
+        "tank_name_s": "IV号H型",
+        "tank_url": "G81_Pz_IV_AusfH",
+        "tank_id": 18193
+    },
+    "uk_5号概念车": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "5号概念车",
+        "tank_name_s": "5号概念车",
+        "tank_url": "GB120_Concept_No_5",
+        "tank_id": 19281
+    },
+    "uk_GSOR 1006 方案7": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "GSOR 1006 方案7",
+        "tank_name_s": "GSOR 1006/7",
+        "tank_url": "GB123_GSOR_1006_v7",
+        "tank_id": 19537
+    },
+    "uk_FV601 萨拉丁": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "FV601 萨拉丁",
+        "tank_name_s": "萨拉丁",
+        "tank_url": "GB125_Saladin",
+        "tank_id": 19793
+    },
+    "ussr_430工程U": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "430工程U",
+        "tank_name_s": "430工程U",
+        "tank_url": "R148_Object_430_U",
+        "tank_id": 19969
+    },
+    "uk_AEC装甲车": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "AEC装甲车",
+        "tank_name_s": "AEC",
+        "tank_url": "GB124_AEC_Armoured_Car",
+        "tank_id": 20049
+    },
+    "usa_T6 中型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "T6 中型坦克",
+        "tank_name_s": "T6 中型坦克",
+        "tank_url": "A129_T6_medium",
+        "tank_id": 20257
+    },
+    "uk_\"猎鹿犬\" Mk.III": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "\"猎鹿犬\" Mk.III",
+        "tank_name_s": "\"猎鹿犬\"",
+        "tank_url": "GB122_Staghound_Mk_III",
+        "tank_id": 20305
+    },
+    "uk_FSV 方案A": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "FSV 方案A",
+        "tank_name_s": "FSV 方案A",
+        "tank_url": "GB126_FSV_Scheme_A",
+        "tank_id": 20561
+    },
+    "ussr_430工程": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "430工程",
+        "tank_name_s": "430工程",
+        "tank_url": "R96_Object_430",
+        "tank_id": 21505
+    },
+    "ussr_K-91": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "K-91",
+        "tank_name_s": "K-91",
+        "tank_url": "R144_K_91",
+        "tank_id": 21761
+    },
+    "ussr_K-91 II型": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "K-91 II型",
+        "tank_name_s": "K-91-2",
+        "tank_url": "R173_K_91_2",
+        "tank_id": 30977
+    },
+    "france_AMX 30早期原型车": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "AMX 30早期原型车",
+        "tank_name_s": "AMX 30早期原型车",
+        "tank_url": "F117_Alt_Proto_AMX_30",
+        "tank_id": 32065
+    },
+    "ussr_274工程A": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "274工程A",
+        "tank_name_s": "274工程A",
+        "tank_url": "R180_Object_274_A",
+        "tank_id": 32257
+    },
+    "usa_M47钢铁阿诺": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "M47钢铁阿诺",
+        "tank_name_s": "钢铁阿诺",
+        "tank_url": "A152_M_Project",
+        "tank_id": 33057
+    },
+    "ussr_T-34 1941型": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "T-34 1941型",
+        "tank_name_s": "T-34(41型)",
+        "tank_url": "R185_T_34_L_11_1941",
+        "tank_id": 33281
+    },
+    "usa_AMBT": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "AMBT",
+        "tank_name_s": "AMBT",
+        "tank_url": "A149_AMBT",
+        "tank_id": 34081
+    },
+    "ussr_M4-85": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "M4-85",
+        "tank_name_s": "M4-85",
+        "tank_url": "R193_M4A2_T_34",
+        "tank_id": 34305
+    },
+    "usa_T3战斗车": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "T3战斗车",
+        "tank_name_s": "T3战斗车",
+        "tank_url": "A148_Convertible_Medium_Tank_T3",
+        "tank_id": 34593
+    },
+    "ussr_283工程": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "283工程",
+        "tank_name_s": "283工程",
+        "tank_url": "R191_Object_283",
+        "tank_id": 34817
+    },
+    "usa_阿斯特朗 雷克斯 105mm": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "阿斯特朗 雷克斯 105mm",
+        "tank_name_s": "阿斯特朗 雷克斯",
+        "tank_url": "A140_ASTRON_REX_105mm",
+        "tank_id": 35105
+    },
+    "ussr_T-44-122A": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T-44-122A",
+        "tank_name_s": "T-44-122A",
+        "tank_url": "R99_T44_122_CN",
+        "tank_id": 38145
+    },
+    "germany_IV号H型\"鮟鱇\"": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "IV号H型\"鮟鱇\"",
+        "tank_name_s": "IV号H型\"鮟鱇\"",
+        "tank_url": "G81_Pz_IV_AusfH_GuP",
+        "tank_id": 45585
+    },
+    "germany_07RH主战方案": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "07RH主战方案",
+        "tank_name_s": "07RH主战方案",
+        "tank_url": "G154_Kpz_07_RH",
+        "tank_id": 45841
+    },
+    "germany_昆泽试验车": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "昆泽试验车",
+        "tank_name_s": "昆泽试验车",
+        "tank_url": "G147_Kunze_Panzer",
+        "tank_id": 46353
+    },
+    "germany_M48A2清障坦克": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "M48A2清障坦克",
+        "tank_name_s": "M48 RPz",
+        "tank_url": "G142_M48RPz",
+        "tank_id": 46609
+    },
+    "ussr_T-34加强型": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "T-34加强型",
+        "tank_name_s": "T-34加强型",
+        "tank_url": "R154_T_34E_1943",
+        "tank_id": 47105
+    },
+    "germany_50吨主战方案": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "50吨主战方案",
+        "tank_name_s": "50吨主战方案",
+        "tank_url": "G144_Kpz_50t",
+        "tank_id": 47121
+    },
+    "ussr_STG": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "STG",
+        "tank_name_s": "STG",
+        "tank_url": "R146_STG",
+        "tank_id": 47617
+    },
+    "ussr_T-29": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "T-29",
+        "tank_name_s": "T-29",
+        "tank_url": "R143_T_29",
+        "tank_id": 47873
+    },
+    "ussr_M4A2 \"谢尔曼\"L": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A2 \"谢尔曼\"L",
+        "tank_name_s": "M4A2 \"谢尔曼\"L",
+        "tank_url": "R140_M4_Loza",
+        "tank_id": 48129
+    },
+    "germany_施瓦茨 58": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "施瓦茨 58",
+        "tank_name_s": "施瓦茨 58",
+        "tank_url": "G119_Panzer58_BF",
+        "tank_id": 49937
+    },
+    "germany_V号黑豹": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "V号黑豹",
+        "tank_name_s": "V号黑豹",
+        "tank_url": "G32_PzV_PzIV_CN",
+        "tank_id": 50449
+    },
+    "poland_CS-52 C": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "CS-52 C",
+        "tank_name_s": "CS-52 C",
+        "tank_url": "Pl25_CS_52_C",
+        "tank_id": 50577
+    },
+    "italy_CC “狮”": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "CC “狮”",
+        "tank_name_s": "CC “狮”",
+        "tank_url": "It21_Lion",
+        "tank_id": 50593
+    },
+    "germany_A号黑豹": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "A号黑豹",
+        "tank_name_s": "A号黑豹",
+        "tank_url": "G32_PzV_PzIV_ausf_Alfa_CN",
+        "tank_id": 50705
+    },
+    "usa_T42": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T42",
+        "tank_name_s": "T42",
+        "tank_url": "A136_T42",
+        "tank_id": 50721
+    },
+    "italy_45吨主战坦克": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "45吨主战坦克",
+        "tank_name_s": "45吨主战坦克",
+        "tank_url": "It20_Carro_Combattimento_45t",
+        "tank_id": 50849
+    },
+    "poland_CS-52 LIS": {
+        "tank_nation": "poland",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "CS-52 LIS",
+        "tank_name_s": "CS-52 LIS",
+        "tank_url": "Pl19_CS_52_LIS",
+        "tank_id": 51089
+    },
+    "uk_“玛蒂尔达”LVT": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "“玛蒂尔达”LVT",
+        "tank_name_s": "“玛蒂尔达”LVT",
+        "tank_url": "GB113_Matilda_LVT",
+        "tank_id": 51281
+    },
+    "italy_PM35/46": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "PM35/46",
+        "tank_name_s": "PM35/46",
+        "tank_url": "It13_Progetto_M35_mod_46",
+        "tank_id": 51361
+    },
+    "ussr_“玛蒂尔达” IV型": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "“玛蒂尔达” IV型",
+        "tank_name_s": "“玛蒂尔达” IV型",
+        "tank_url": "R32_Matilda_II_LL",
+        "tank_id": 51457
+    },
+    "germany_V-IV号坦克": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "V-IV号坦克",
+        "tank_name_s": "V-IV号坦克",
+        "tank_url": "G32_PzV_PzIV",
+        "tank_id": 51473
+    },
+    "japan_三式改": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "三式改",
+        "tank_name_s": "三式改",
+        "tank_url": "J12_Chi_Nu_Kai",
+        "tank_id": 51553
+    },
+    "czech_斯柯达 T40": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "斯柯达 T40",
+        "tank_name_s": "斯柯达 T40",
+        "tank_url": "Cz01_Skoda_T40",
+        "tank_id": 51569
+    },
+    "sweden_SMA-2": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "SMA-2",
+        "tank_name_s": "SMA-2",
+        "tank_url": "S01_Strv_74_A2",
+        "tank_id": 51585
+    },
+    "usa_“公羊”II": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "“公羊”II",
+        "tank_name_s": "“公羊”II",
+        "tank_url": "A62_Ram-II",
+        "tank_id": 51745
+    },
+    "czech_斯柯达 T27": {
+        "tank_nation": "czech",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "斯柯达 T27",
+        "tank_name_s": "斯柯达 T27",
+        "tank_url": "Cz13_T_27",
+        "tank_id": 51825
+    },
+    "germany_S35 739(f)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "S35 739(f)",
+        "tank_name_s": "S35 739(f)",
+        "tank_url": "G34_S35_captured",
+        "tank_id": 51985
+    },
+    "japan_STA-2": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "STA-2",
+        "tank_name_s": "STA-2",
+        "tank_url": "J18_STA_2_3",
+        "tank_id": 52065
+    },
+    "italy_玛尔斯": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "玛尔斯",
+        "tank_name_s": "玛尔斯",
+        "tank_url": "It13_Progetto_M35_mod_46_LE",
+        "tank_id": 52129
+    },
+    "usa_M4A2E4": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "M4A2E4",
+        "tank_name_s": "M4A2E4",
+        "tank_url": "A44_M4A2E4",
+        "tank_id": 52257
+    },
+    "sweden_Strv 81": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "Strv 81",
+        "tank_name_s": "Strv 81",
+        "tank_url": "S23_Strv_81",
+        "tank_id": 52353
+    },
+    "italy_M16/43 \"撒哈拉\"": {
+        "tank_nation": "italy",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "M16/43 \"撒哈拉\"",
+        "tank_name_s": "\"撒哈拉\"",
+        "tank_url": "It29_Carro_Celere_Sahariano",
+        "tank_id": 52385
+    },
+    "sweden_Strv 81 S型": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "Strv 81 S型",
+        "tank_name_s": "Strv 81 S型",
+        "tank_url": "S23_Strv_81_sabaton",
+        "tank_id": 52609
+    },
+    "uk_哨兵 AC I": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "哨兵 AC I",
+        "tank_name_s": "哨兵 AC I",
+        "tank_url": "GB33_Sentinel_AC_I",
+        "tank_id": 52817
+    },
+    "japan_雪绒花": {
+        "tank_nation": "japan",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "雪绒花",
+        "tank_name_s": "雪绒花",
+        "tank_url": "J30_Edelweiss",
+        "tank_id": 52833
+    },
+    "ussr_A-32": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "A-32",
+        "tank_name_s": "A-32",
+        "tank_url": "R68_A-32",
+        "tank_id": 52993
+    },
+    "sweden_兰森 C": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "兰森 C",
+        "tank_name_s": "兰森 C",
+        "tank_url": "S26_Lansen_C",
+        "tank_id": 53121
+    },
+    "sweden_UDES 03 Alt 3": {
+        "tank_nation": "sweden",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "UDES 03 Alt 3",
+        "tank_name_s": "UDES 03 3",
+        "tank_url": "S30_UDES_03_Alt_3",
+        "tank_id": 53377
+    },
+    "uk_“玛蒂尔达-黑亲王”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "“玛蒂尔达-黑亲王”",
+        "tank_name_s": "“玛蒂尔达-黑亲王”",
+        "tank_url": "GB68_Matilda_Black_Prince",
+        "tank_id": 53585
+    },
+    "usa_T95E2": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T95E2",
+        "tank_name_s": "T95E2",
+        "tank_url": "A81_T95_E2",
+        "tank_id": 53793
+    },
+    "germany_V-IV试验型坦克": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "V-IV试验型坦克",
+        "tank_name_s": "V-IV试验型坦克",
+        "tank_url": "G32_PzV_PzIV_ausf_Alfa",
+        "tank_id": 54033
+    },
+    "germany_T-25": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "T-25",
+        "tank_name_s": "T-25",
+        "tank_url": "G46_T-25",
+        "tank_id": 54545
+    },
+    "germany_IV号 \"液力试验型\"": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "IV号 \"液力试验型\"",
+        "tank_name_s": "IV号 \"液力试验型\"",
+        "tank_url": "G70_PzIV_Hydro",
+        "tank_id": 55057
+    },
+    "uk_FV4202": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "FV4202",
+        "tank_name_s": "FV4202",
+        "tank_url": "GB70_N_FV4202_105",
+        "tank_id": 55633
+    },
+    "usa_T95E6": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "T95E6",
+        "tank_name_s": "T95E6",
+        "tank_url": "A95_T95_E6",
+        "tank_id": 55841
+    },
+    "uk_“克伦威尔” B型": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "“克伦威尔” B型",
+        "tank_name_s": "“克伦威尔” B型",
+        "tank_url": "GB85_Cromwell_Berlin",
+        "tank_id": 55889
+    },
+    "usa_M4A3E8狂怒": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A3E8狂怒",
+        "tank_name_s": "M4A3E8狂怒",
+        "tank_url": "A104_M4A3E8A",
+        "tank_id": 56097
+    },
+    "uk_哨兵 AC IV": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "哨兵 AC IV",
+        "tank_name_s": "哨兵 AC IV",
+        "tank_url": "GB35_Sentinel_AC_IV",
+        "tank_id": 56145
+    },
+    "uk_百夫长 Mk.V RAAC": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "百夫长 Mk.V RAAC",
+        "tank_name_s": "百夫长 Mk.V RAAC",
+        "tank_url": "GB94_Centurion_Mk5-1_RAAC",
+        "tank_id": 56913
+    },
+    "usa_M46 \"猛虎\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "M46 \"猛虎\"",
+        "tank_name_s": "M46 \"猛虎\"",
+        "tank_url": "A63_M46_Patton_KR",
+        "tank_id": 57121
+    },
+    "uk_谢尔曼 \"萤火虫\"": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "谢尔曼 \"萤火虫\"",
+        "tank_name_s": "谢尔曼 \"萤火虫\"",
+        "tank_url": "GB95_Ekins_Firefly_M4A4",
+        "tank_id": 57169
+    },
+    "germany_IV号炮塔升级型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "IV号炮塔升级型",
+        "tank_name_s": "IV号炮塔升级型",
+        "tank_url": "G77_PzIV_Schmalturm",
+        "tank_id": 57361
+    },
+    "usa_T-25 PN": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-25 PN",
+        "tank_name_s": "T-25 PN",
+        "tank_url": "A111_T25_Pilot",
+        "tank_id": 57377
+    },
+    "uk_奇美拉": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "奇美拉",
+        "tank_name_s": "奇美拉",
+        "tank_url": "GB97_Chimera",
+        "tank_id": 57425
+    },
+    "germany_\"黑豹\"(伪装M10)": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "\"黑豹\"(伪装M10)",
+        "tank_name_s": "\"黑豹\"(伪装M10)",
+        "tank_url": "G78_Panther_M10",
+        "tank_id": 57617
+    },
+    "ussr_T-34-85M": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "T-34-85M",
+        "tank_name_s": "T-34-85M",
+        "tank_url": "R108_T34_85M",
+        "tank_id": 58113
+    },
+    "china_齐天大圣": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "齐天大圣",
+        "tank_name_s": "齐天大圣",
+        "tank_url": "Ch25_121_mod_1971B_MK",
+        "tank_id": 58673
+    },
+    "ussr_T-34-85“鲁迪”": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "T-34-85“鲁迪”",
+        "tank_name_s": "Т-34-85“鲁迪”",
+        "tank_url": "R117_T34_85_Rudy",
+        "tank_id": 59393
+    },
+    "germany_克虏伯试验车": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 3,
+        "tank_name": "克虏伯试验车",
+        "tank_name_s": "克虏伯试验车",
+        "tank_url": "G100_Gtraktor_Krupp",
+        "tank_id": 59665
+    },
+    "usa_M4A3E8 \"雷电\"VII": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A3E8 \"雷电\"VII",
+        "tank_name_s": "M4A3E8 \"雷电\"VII",
+        "tank_url": "A118_M4_Thunderbolt",
+        "tank_id": 59681
+    },
+    "ussr_T-54(原型车)": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-54(原型车)",
+        "tank_name_s": "T-54(原型车)",
+        "tank_url": "R112_T54_45",
+        "tank_id": 59905
+    },
+    "usa_T26E3 \"鹰\"": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 7,
+        "tank_name": "T26E3 \"鹰\"",
+        "tank_name_s": "T26E3 \"鹰\"",
+        "tank_url": "A121_M26_Cologne",
+        "tank_id": 59937
+    },
+    "germany_“黑豹”88 L/71": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "“黑豹”88 L/71",
+        "tank_name_s": "“黑豹”88 L/71",
+        "tank_url": "G106_PzKpfwPanther_AusfF",
+        "tank_id": 60177
+    },
+    "france_查狄伦 暴风": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "查狄伦 暴风",
+        "tank_name_s": "查狄伦 暴风",
+        "tank_url": "F116_Bat_Chatillon_Bourrasque",
+        "tank_id": 60225
+    },
+    "uk_勇士": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "勇士",
+        "tank_name_s": "勇士",
+        "tank_url": "GB37_Valliant",
+        "tank_id": 60241
+    },
+    "france_4号先进战车": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "4号先进战车",
+        "tank_name_s": "4号先进战车",
+        "tank_url": "F114_Projet_4_1",
+        "tank_id": 60481
+    },
+    "uk_“眼镜蛇”": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "“眼镜蛇”",
+        "tank_name_s": "“眼镜蛇”",
+        "tank_url": "GB106_Cobra",
+        "tank_id": 60497
+    },
+    "ussr_907工程A": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "907工程A",
+        "tank_name_s": "907工程A",
+        "tank_url": "R95_Object_907A",
+        "tank_id": 60673
+    },
+    "germany_T-55A": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 9,
+        "tank_name": "T-55A",
+        "tank_name_s": "T-55A",
+        "tank_url": "G105_T-55_NVA_DDR",
+        "tank_id": 60945
+    },
+    "france_M4A1 FL10": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 6,
+        "tank_name": "M4A1 FL10",
+        "tank_name_s": "M4A1 FL10",
+        "tank_url": "F85_M4A1_FL10",
+        "tank_id": 60993
+    },
+    "uk_GSOR 1010 FB": {
+        "tank_nation": "uk",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "GSOR 1010 FB",
+        "tank_name_s": "GSOR 1010",
+        "tank_url": "GB121_GSOR_1010_FB",
+        "tank_id": 61265
+    },
+    "ussr_T28(F30)": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 4,
+        "tank_name": "T28(F30)",
+        "tank_name_s": "T-28(F30)",
+        "tank_url": "R118_T28_F30",
+        "tank_id": 61441
+    },
+    "germany_III号K型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "III号K型",
+        "tank_name_s": "III号K型",
+        "tank_url": "G107_PzKpfwIII_AusfK",
+        "tank_id": 61457
+    },
+    "ussr_T-22": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "T-22",
+        "tank_name_s": "T-22",
+        "tank_url": "R120_T22SR_A22",
+        "tank_id": 61697
+    },
+    "ussr_T-44-100": {
+        "tank_nation": "ussr",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-44-100",
+        "tank_name_s": "T-44-100",
+        "tank_url": "R122_T44_100",
+        "tank_id": 61953
+    },
+    "usa_TL-1 LPC": {
+        "tank_nation": "usa",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "TL-1 LPC",
+        "tank_name_s": "TL-1 LPC",
+        "tank_url": "A127_TL_1_LPC",
+        "tank_id": 62241
+    },
+    "france_洛林 40t": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "洛林 40t",
+        "tank_name_s": "洛林 40t",
+        "tank_url": "F19_Lorraine40t",
+        "tank_id": 62529
+    },
+    "france_M4A1升级型": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "M4A1升级型",
+        "tank_name_s": "M4A1升级型",
+        "tank_url": "F73_M4A1_Revalorise",
+        "tank_id": 63041
+    },
+    "germany_突朗III型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 5,
+        "tank_name": "突朗III型",
+        "tank_name_s": "突朗III型",
+        "tank_url": "G116_Turan_III_prot",
+        "tank_id": 63249
+    },
+    "china_121B": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 10,
+        "tank_name": "121B",
+        "tank_name_s": "121B",
+        "tank_url": "Ch25_121_mod_1971B",
+        "tank_id": 63537
+    },
+    "france_AMX CDC": {
+        "tank_nation": "france",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "AMX CDC",
+        "tank_name_s": "AMX CDC",
+        "tank_url": "F68_AMX_Chasseur_de_char_46",
+        "tank_id": 63553
+    },
+    "germany_58号试验型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "58号试验型",
+        "tank_name_s": "58号试验型",
+        "tank_url": "G119_Panzer58",
+        "tank_id": 63761
+    },
+    "china_59-巴顿": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "59-巴顿",
+        "tank_name_s": "59-巴顿",
+        "tank_url": "Ch26_59_Patton",
+        "tank_id": 63793
+    },
+    "china_T-34-3": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "T-34-3",
+        "tank_name_s": "T-34-3",
+        "tank_url": "Ch14_T34_3",
+        "tank_id": 64049
+    },
+    "germany_58号M型": {
+        "tank_nation": "germany",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "58号M型",
+        "tank_name_s": "58号M型",
+        "tank_url": "G119_Pz58_Mutz",
+        "tank_id": 64273
+    },
+    "china_122 TM": {
+        "tank_nation": "china",
+        "tank_type": "mediumTank",
+        "tank_rank": 8,
+        "tank_name": "122 TM",
+        "tank_name_s": "122 TM",
+        "tank_url": "Ch43_WZ_122_2",
+        "tank_id": 65329
+    },
+    "usa_T14": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "T14",
+        "tank_name_s": "T14",
+        "tank_url": "A21_T14",
+        "tank_id": 33
+    },
+    "ussr_IS": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "IS",
+        "tank_name_s": "IS",
+        "tank_url": "R01_IS",
+        "tank_id": 513
+    },
+    "germany_“虎”式": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "“虎”式",
+        "tank_name_s": "“虎”式",
+        "tank_url": "G04_PzVI_Tiger_I",
+        "tank_id": 529
+    },
+    "usa_M6": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "M6",
+        "tank_name_s": "M6",
+        "tank_url": "A10_M6",
+        "tank_id": 801
+    },
+    "china_WZ111": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "WZ111",
+        "tank_name_s": "WZ111",
+        "tank_url": "Ch03_WZ-111",
+        "tank_id": 817
+    },
+    "poland_50TP原型车": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "50TP原型车",
+        "tank_name_s": "50TP原型车",
+        "tank_url": "Pl08_50TP_prototyp",
+        "tank_id": 913
+    },
+    "france_夏尔 B1": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 4,
+        "tank_name": "夏尔 B1",
+        "tank_name_s": "夏尔 B1",
+        "tank_url": "F04_B1",
+        "tank_id": 1089
+    },
+    "sweden_埃米尔 I": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "埃米尔 I",
+        "tank_name_s": "埃米尔 I",
+        "tank_url": "S18_EMIL_1951_E1",
+        "tank_id": 1921
+    },
+    "china_111 I-IV": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "111 I-IV",
+        "tank_name_s": "111 I-IV",
+        "tank_url": "Ch12_111_1_2_3",
+        "tank_id": 2097
+    },
+    "sweden_埃米尔 II": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "埃米尔 II",
+        "tank_name_s": "埃米尔 II",
+        "tank_url": "S17_EMIL_1952_E2",
+        "tank_id": 2177
+    },
+    "germany_VK3601(H)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "VK3601(H)",
+        "tank_name_s": "VK3601(H)",
+        "tank_url": "G15_VK3601H",
+        "tank_id": 2321
+    },
+    "sweden_KRV": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "KRV",
+        "tank_name_s": "KRV",
+        "tank_url": "S16_Kranvagn",
+        "tank_id": 2433
+    },
+    "france_ARL 44": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "ARL 44",
+        "tank_name_s": "ARL 44",
+        "tank_url": "F06_ARL_44",
+        "tank_id": 2625
+    },
+    "poland_45TP H": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "45TP H",
+        "tank_name_s": "45TP H",
+        "tank_url": "Pl11_45TP_Habicha",
+        "tank_id": 2705
+    },
+    "ussr_KV-85": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "KV-85",
+        "tank_name_s": "KV-85",
+        "tank_url": "R106_KV85",
+        "tank_id": 2817
+    },
+    "usa_T34": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T34",
+        "tank_name_s": "T34",
+        "tank_url": "A13_T34_hvy",
+        "tank_id": 2849
+    },
+    "china_110": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "110",
+        "tank_name_s": "110",
+        "tank_url": "Ch11_110",
+        "tank_id": 2865
+    },
+    "uk_“丘吉尔”I": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "“丘吉尔”I",
+        "tank_name_s": "“丘吉尔”I",
+        "tank_url": "GB08_Churchill_I",
+        "tank_id": 2897
+    },
+    "czech_Vz.55": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "Vz.55",
+        "tank_name_s": "Vz.55",
+        "tank_url": "Cz17_Vz_55",
+        "tank_id": 2929
+    },
+    "poland_53TP M": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "53TP M",
+        "tank_name_s": "53TP M",
+        "tank_url": "Pl13_53TP_Markowskiego",
+        "tank_id": 2961
+    },
+    "italy_\"犀牛\"": {
+        "tank_nation": "italy",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "\"犀牛\"",
+        "tank_name_s": "\"犀牛\"",
+        "tank_url": "It15_Rinoceronte",
+        "tank_id": 2977
+    },
+    "france_AMX 50 100": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "AMX 50 100",
+        "tank_name_s": "AMX 50 100",
+        "tank_url": "F08_AMX_50_100",
+        "tank_id": 3137
+    },
+    "uk_A43": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "A43",
+        "tank_name_s": "A43",
+        "tank_url": "GB10_Black_Prince",
+        "tank_id": 3153
+    },
+    "czech_TNH T Vz.51": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "TNH T Vz.51",
+        "tank_name_s": "TNH T Vz.51",
+        "tank_url": "Cz16_TNH_T_vz51",
+        "tank_id": 3185
+    },
+    "poland_50TP T": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "50TP T",
+        "tank_name_s": "50TP",
+        "tank_url": "Pl05_50TP_Tyszkiewicza",
+        "tank_id": 3217
+    },
+    "italy_P.88 突击型": {
+        "tank_nation": "italy",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "P.88 突击型",
+        "tank_name_s": "P.88 突击型",
+        "tank_url": "It16_Carro_d_assalto_P88",
+        "tank_id": 3233
+    },
+    "usa_T1 重型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "T1 重型坦克",
+        "tank_name_s": "T1 重型坦克",
+        "tank_url": "A09_T1_hvy",
+        "tank_id": 3361
+    },
+    "czech_TNH 105/1000": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "TNH 105/1000",
+        "tank_name_s": "TNH 105/1000",
+        "tank_url": "Cz18_TNH_105_1000",
+        "tank_id": 3441
+    },
+    "poland_60TP L": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "60TP L",
+        "tank_name_s": "60TP L",
+        "tank_url": "Pl15_60TP_Lewandowskiego",
+        "tank_id": 3473
+    },
+    "italy_PC50/66": {
+        "tank_nation": "italy",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "PC50/66",
+        "tank_name_s": "PC50/66",
+        "tank_url": "It19_Progetto_C50_mod_66",
+        "tank_id": 3489
+    },
+    "china_IS-2": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "IS-2",
+        "tank_name_s": "IS-2",
+        "tank_url": "Ch10_IS2",
+        "tank_id": 3633
+    },
+    "czech_Vz.44-1": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "Vz.44-1",
+        "tank_name_s": "Vz.44-1",
+        "tank_url": "Cz19_Vz_44_1",
+        "tank_id": 3697
+    },
+    "italy_PCC55/54": {
+        "tank_nation": "italy",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "PCC55/54",
+        "tank_name_s": "PCC55/54",
+        "tank_url": "It17_Progetto_CC55_mod_54",
+        "tank_id": 3745
+    },
+    "usa_T29": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "T29",
+        "tank_name_s": "T29",
+        "tank_url": "A11_T29",
+        "tank_id": 3873
+    },
+    "france_AMX 50 120": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "AMX 50 120",
+        "tank_name_s": "AMX 50 120",
+        "tank_url": "F09_AMX_50_120",
+        "tank_id": 3905
+    },
+    "uk_卡那封": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "卡那封",
+        "tank_name_s": "卡那封",
+        "tank_url": "GB11_Caernarvon",
+        "tank_id": 3921
+    },
+    "japan_五式重战": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "五式重战",
+        "tank_name_s": "五式重战",
+        "tank_url": "J20_Type_2605",
+        "tank_id": 3937
+    },
+    "japan_四式重战": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "四式重战",
+        "tank_name_s": "四式重战",
+        "tank_url": "J25_Type_4",
+        "tank_id": 4193
+    },
+    "usa_T32": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T32",
+        "tank_name_s": "T32",
+        "tank_url": "A12_T32",
+        "tank_id": 4385
+    },
+    "uk_征服者": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "征服者",
+        "tank_name_s": "征服者",
+        "tank_url": "GB12_Conqueror",
+        "tank_id": 4433
+    },
+    "japan_九五重战": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 4,
+        "tank_name": "九五重战",
+        "tank_name_s": "九五重战",
+        "tank_url": "J22_Type_95",
+        "tank_id": 4449
+    },
+    "uk_“丘吉尔”VII": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "“丘吉尔”VII",
+        "tank_name_s": "“丘吉尔”VII",
+        "tank_url": "GB09_Churchill_VII",
+        "tank_id": 4689
+    },
+    "japan_九一重战": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 3,
+        "tank_name": "九一重战",
+        "tank_name_s": "九一重战",
+        "tank_url": "J21_Type_91",
+        "tank_id": 4705
+    },
+    "japan_120吨V型": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "120吨V型",
+        "tank_name_s": "120吨V型",
+        "tank_url": "J27_O_I_120",
+        "tank_id": 4961
+    },
+    "germany_\"虎王\"": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "\"虎王\"",
+        "tank_name_s": "\"虎王\"",
+        "tank_url": "G16_PzVIB_Tiger_II",
+        "tank_id": 5137
+    },
+    "japan_120吨IV型": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "120吨IV型",
+        "tank_name_s": "120吨IV型",
+        "tank_url": "J28_O_I_100",
+        "tank_id": 5217
+    },
+    "ussr_IS-3": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-3",
+        "tank_name_s": "IS-3",
+        "tank_url": "R19_IS-3",
+        "tank_id": 5377
+    },
+    "china_113": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "113",
+        "tank_name_s": "113",
+        "tank_url": "Ch22_113P",
+        "tank_id": 62769
+    },
+    "japan_120吨I型": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "120吨I型",
+        "tank_name_s": "120吨I型",
+        "tank_url": "J24_Mi_To_130_tons",
+        "tank_id": 5473
+    },
+    "japan_120吨试验型": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "120吨试验型",
+        "tank_name_s": "120吨试验型",
+        "tank_url": "J23_Mi_To",
+        "tank_id": 5729
+    },
+    "ussr_KV-3": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "KV-3",
+        "tank_name_s": "KV-3",
+        "tank_url": "R39_KV-3",
+        "tank_id": 5889
+    },
+    "ussr_IS-4": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "IS-4",
+        "tank_name_s": "IS-4",
+        "tank_url": "R90_IS_4M",
+        "tank_id": 6145
+    },
+    "china_111 5A": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "111 5A",
+        "tank_name_s": "111 5A",
+        "tank_url": "Ch41_WZ_111_5A",
+        "tank_id": 6193
+    },
+    "france_AMX 50 B": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "AMX 50 B",
+        "tank_name_s": "AMX 50 B",
+        "tank_url": "F10_AMX_50B",
+        "tank_id": 6209
+    },
+    "uk_FV215b": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "FV215b",
+        "tank_name_s": "FV215b",
+        "tank_url": "GB13_FV215b",
+        "tank_id": 6225
+    },
+    "france_BDR G1 B": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "BDR G1 B",
+        "tank_name_s": "BDR G1 B",
+        "tank_url": "F05_BDR_G1B",
+        "tank_id": 6721
+    },
+    "germany_“鼠”式": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "“鼠”式",
+        "tank_name_s": "“鼠”式",
+        "tank_url": "G42_Maus",
+        "tank_id": 6929
+    },
+    "france_AMX M4(1945)": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "AMX M4(1945)",
+        "tank_name_s": "AMX M4(1945)",
+        "tank_url": "F07_AMX_M4_1945",
+        "tank_id": 6977
+    },
+    "ussr_IS-7": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "IS-7",
+        "tank_name_s": "IS-7",
+        "tank_url": "R45_IS-7",
+        "tank_id": 7169
+    },
+    "germany_VK3001(P)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "VK3001(P)",
+        "tank_name_s": "VK3001(P)",
+        "tank_url": "G27_VK3001P",
+        "tank_id": 7185
+    },
+    "germany_VK4502(P)B": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "VK4502(P)B",
+        "tank_name_s": "VK4502(P)B",
+        "tank_url": "G58_VK4502P",
+        "tank_id": 7441
+    },
+    "china_BZ-75": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "BZ-75",
+        "tank_name_s": "BZ-75",
+        "tank_url": "Ch48_BZ_75",
+        "tank_id": 9009
+    },
+    "ussr_IS-6": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-6",
+        "tank_name_s": "IS-6",
+        "tank_url": "R61_Object252",
+        "tank_id": 9217
+    },
+    "china_BZ-68": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "BZ-68",
+        "tank_name_s": "BZ-68",
+        "tank_url": "Ch49_BZ_68",
+        "tank_id": 9265
+    },
+    "germany_E-100": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "E-100",
+        "tank_name_s": "E-100",
+        "tank_url": "G56_E-100",
+        "tank_id": 9489
+    },
+    "usa_M103": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "M103",
+        "tank_name_s": "M103",
+        "tank_url": "A66_M103",
+        "tank_id": 9505
+    },
+    "china_BZ-166": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "BZ-166",
+        "tank_name_s": "BZ-166",
+        "tank_url": "Ch50_BZ_166",
+        "tank_id": 9521
+    },
+    "germany_E-75": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "E-75",
+        "tank_name_s": "E-75",
+        "tank_url": "G55_E-75",
+        "tank_id": 9745
+    },
+    "china_BZ-58": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "BZ-58",
+        "tank_name_s": "BZ-58",
+        "tank_url": "Ch51_BZ_58",
+        "tank_id": 9777
+    },
+    "china_BZ-58-2": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "BZ-58-2",
+        "tank_name_s": "BZ-58-2",
+        "tank_url": "Ch59_BZ58_2",
+        "tank_id": 10289
+    },
+    "ussr_KV-2": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "KV-2",
+        "tank_name_s": "KV-2",
+        "tank_url": "R77_KV2",
+        "tank_id": 10497
+    },
+    "germany_VK4502(P)A": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "VK4502(P)A",
+        "tank_name_s": "VK4502(P)A",
+        "tank_url": "G67_VK4502A",
+        "tank_id": 10513
+    },
+    "ussr_ST-I": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "ST-I",
+        "tank_name_s": "ST-I",
+        "tank_url": "R63_ST_I",
+        "tank_id": 10753
+    },
+    "germany_“虎”(P)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "“虎”(P)",
+        "tank_name_s": "“虎”(P)",
+        "tank_url": "G57_PzVI_Tiger_P",
+        "tank_id": 10769
+    },
+    "usa_T110E5": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "T110E5",
+        "tank_name_s": "T110E5",
+        "tank_url": "A69_T110E5",
+        "tank_id": 10785
+    },
+    "ussr_KV-4": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "KV-4",
+        "tank_name_s": "KV-4",
+        "tank_url": "R73_KV4",
+        "tank_id": 11009
+    },
+    "ussr_T-150": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "T-150",
+        "tank_name_s": "T-150",
+        "tank_url": "R72_T150",
+        "tank_id": 11265
+    },
+    "ussr_T-10": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "T-10",
+        "tank_name_s": "T-10",
+        "tank_url": "R81_IS8",
+        "tank_id": 11521
+    },
+    "ussr_KV-1": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KV-1",
+        "tank_name_s": "KV-1",
+        "tank_url": "R80_KV1",
+        "tank_id": 11777
+    },
+    "germany_DW2": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 4,
+        "tank_name": "DW2",
+        "tank_name_s": "DW2",
+        "tank_url": "G90_DW_II",
+        "tank_id": 13329
+    },
+    "usa_T57重型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "T57重型坦克",
+        "tank_name_s": "T57重型坦克",
+        "tank_url": "A67_T57_58",
+        "tank_id": 14881
+    },
+    "usa_T54E1": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "T54E1",
+        "tank_name_s": "T54E1",
+        "tank_url": "A89_T54E1",
+        "tank_id": 15393
+    },
+    "uk_超级征服者": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "超级征服者",
+        "tank_name_s": "超级征服者",
+        "tank_url": "GB91_Super_Conqueror",
+        "tank_id": 15697
+    },
+    "france_AMX 65t": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "AMX 65t",
+        "tank_name_s": "AMX 65t",
+        "tank_url": "F81_Char_de_65t",
+        "tank_id": 16449
+    },
+    "france_AMX M4(1951)": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "AMX M4(1951)",
+        "tank_name_s": "AMX M4(1951)",
+        "tank_url": "F83_AMX_M4_Mle1949_Bis",
+        "tank_id": 16705
+    },
+    "france_AMX M4(1954)": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "AMX M4(1954)",
+        "tank_name_s": "AMX M4(1954)",
+        "tank_url": "F82_AMX_M4_Mle1949_Ter",
+        "tank_id": 16961
+    },
+    "ussr_KV-1S": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "KV-1S",
+        "tank_name_s": "KV-1S",
+        "tank_url": "R13_KV-1s",
+        "tank_id": 18689
+    },
+    "germany_“鼠”式原型车": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "“鼠”式原型车",
+        "tank_name_s": "“鼠”式原型车",
+        "tank_url": "G110_Typ_205",
+        "tank_id": 18705
+    },
+    "germany_VII号坦克": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "VII号坦克",
+        "tank_name_s": "VII号坦克",
+        "tank_url": "G134_PzKpfw_VII",
+        "tank_id": 19473
+    },
+    "ussr_257工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "257工程",
+        "tank_name_s": "257工程",
+        "tank_url": "R151_Object_257_2",
+        "tank_id": 19713
+    },
+    "germany_VK10001(P)\"猛犸\"": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "VK10001(P)\"猛犸\"",
+        "tank_name_s": "VK10001(P)\"猛犸\"",
+        "tank_url": "G115_Typ_205B",
+        "tank_id": 19729
+    },
+    "ussr_IS-M": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-M",
+        "tank_name_s": "IS-M",
+        "tank_url": "R139_IS_M",
+        "tank_id": 20481
+    },
+    "usa_帕莱克坦克": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "帕莱克坦克",
+        "tank_name_s": "帕莱克坦克",
+        "tank_url": "A142_Pawlack_Tank",
+        "tank_id": 20513
+    },
+    "ussr_705工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "705工程",
+        "tank_name_s": "705工程",
+        "tank_url": "R153_Object_705",
+        "tank_id": 20737
+    },
+    "usa_M-II-Y": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "M-II-Y",
+        "tank_name_s": "M-II-Y",
+        "tank_url": "A147_M_II_Y",
+        "tank_id": 20769
+    },
+    "ussr_705工程A": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "705工程A",
+        "tank_name_s": "705工程A",
+        "tank_url": "R145_Object_705_A",
+        "tank_id": 20993
+    },
+    "usa_M-III-Y": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "M-III-Y",
+        "tank_name_s": "M-III-Y",
+        "tank_url": "A139_M_III_Y",
+        "tank_id": 21025
+    },
+    "usa_M-VI-Y": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "M-VI-Y",
+        "tank_name_s": "M-VI-Y",
+        "tank_url": "A144_M_VI_Y",
+        "tank_id": 21281
+    },
+    "usa_M-V-Y": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "M-V-Y",
+        "tank_name_s": "M-V-Y",
+        "tank_url": "A143_M_V_Y",
+        "tank_id": 21537
+    },
+    "ussr_277工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "277工程",
+        "tank_name_s": "277工程",
+        "tank_url": "R155_Object_277",
+        "tank_id": 22017
+    },
+    "ussr_ST-II": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "ST-II",
+        "tank_name_s": "ST-II",
+        "tank_url": "R169_ST_II",
+        "tank_id": 22273
+    },
+    "ussr_IS-3-II": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "IS-3-II",
+        "tank_name_s": "IS-3-II",
+        "tank_url": "R171_IS_3_II",
+        "tank_id": 22529
+    },
+    "ussr_IS-2-II": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-2-II",
+        "tank_name_s": "IS-2-II",
+        "tank_url": "R170_IS_2_II",
+        "tank_id": 22785
+    },
+    "germany_07P(E)主战方案": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "07P(E)主战方案",
+        "tank_name_s": "07P(E)主战方案",
+        "tank_url": "G162_Project_Kpz_07P_E",
+        "tank_id": 22801
+    },
+    "ussr_IS-2加强型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "IS-2加强型",
+        "tank_name_s": "IS-2加强型",
+        "tank_url": "R175_IS_2_screen",
+        "tank_id": 31233
+    },
+    "ussr_780工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "780工程",
+        "tank_name_s": "780工程",
+        "tank_url": "R178_Object_780",
+        "tank_id": 32001
+    },
+    "ussr_KV-1加强型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KV-1加强型",
+        "tank_name_s": "KV-1加强型",
+        "tank_url": "R186_KV_1_Screened",
+        "tank_id": 33025
+    },
+    "usa_T54重型坦克": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "T54重型坦克",
+        "tank_name_s": "T54重型坦克",
+        "tank_url": "A156_T54_2022",
+        "tank_id": 33313
+    },
+    "ussr_K-2": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "K-2",
+        "tank_name_s": "K-2",
+        "tank_url": "R192_K_2",
+        "tank_id": 34561
+    },
+    "usa_TS-54": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "TS-54",
+        "tank_name_s": "TS-54",
+        "tank_url": "A145_TS_54",
+        "tank_id": 34849
+    },
+    "ussr_KV-1SA": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KV-1SA",
+        "tank_name_s": "KV-1SA",
+        "tank_url": "R197_KV_1S_MZ",
+        "tank_id": 37889
+    },
+    "france_洛林 50t": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "洛林 50t",
+        "tank_name_s": "洛林 50t",
+        "tank_url": "F115_Lorraine_50t",
+        "tank_id": 43073
+    },
+    "usa_T-832": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T-832",
+        "tank_name_s": "T-832",
+        "tank_url": "A158_T832",
+        "tank_id": 43297
+    },
+    "usa_M-IV-Y": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "M-IV-Y",
+        "tank_name_s": "M-IV-Y",
+        "tank_url": "A141_M_IV_Y",
+        "tank_id": 43553
+    },
+    "ussr_703工程II型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "703工程II型",
+        "tank_name_s": "703工程II型(122)",
+        "tank_url": "R165_Object_703_II",
+        "tank_id": 44289
+    },
+    "ussr_777工程II型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "777工程II型",
+        "tank_name_s": "777工程II型",
+        "tank_url": "R119_Object_777",
+        "tank_id": 44545
+    },
+    "ussr_IS-2M": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "IS-2M",
+        "tank_name_s": "IS-2M",
+        "tank_url": "R156_IS_2M",
+        "tank_id": 46593
+    },
+    "ussr_279工程早期型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "279工程早期型",
+        "tank_name_s": "279工程早期型",
+        "tank_url": "R157_Object_279R",
+        "tank_id": 46849
+    },
+    "germany_E 75 TS": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "E 75 TS",
+        "tank_name_s": "E 75 TS",
+        "tank_url": "G143_E75_TS",
+        "tank_id": 46865
+    },
+    "ussr_252工程U 防卫者": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "252工程U 防卫者",
+        "tank_name_s": "252工程U 防卫者",
+        "tank_url": "R134_Object_252K",
+        "tank_id": 48641
+    },
+    "germany_VK16801(P)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "VK16801(P)",
+        "tank_name_s": "VK16801(P)",
+        "tank_url": "G138_VK168_02",
+        "tank_id": 48913
+    },
+    "germany_131号\"虎\"式": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "131号\"虎\"式",
+        "tank_name_s": "131号\"虎\"式",
+        "tank_url": "G136_Tiger_131",
+        "tank_id": 49169
+    },
+    "ussr_IS-6 B": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-6 B",
+        "tank_name_s": "IS-6 B",
+        "tank_url": "R61_Object252_BF",
+        "tank_id": 49409
+    },
+    "ussr_252工程U": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "252工程U",
+        "tank_name_s": "252工程U",
+        "tank_url": "R134_Object_252U",
+        "tank_id": 49665
+    },
+    "ussr_KV-122": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "KV-122",
+        "tank_name_s": "KV-122",
+        "tank_url": "R133_KV_122",
+        "tank_id": 49921
+    },
+    "ussr_257工程(PA)": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "257工程(PA)",
+        "tank_name_s": "257工程(PA)",
+        "tank_url": "R129_Object_257",
+        "tank_id": 50433
+    },
+    "poland_56TP": {
+        "tank_nation": "poland",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "56TP",
+        "tank_name_s": "56TP",
+        "tank_url": "Pl24_56TP",
+        "tank_id": 50833
+    },
+    "czech_斯柯达 T56": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "斯柯达 T56",
+        "tank_name_s": "斯柯达 T56",
+        "tank_url": "Cz14_Skoda_T-56",
+        "tank_id": 51057
+    },
+    "italy_C45 \"野牛\"": {
+        "tank_nation": "italy",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "C45 \"野牛\"",
+        "tank_name_s": "C45 \"野牛\"",
+        "tank_url": "It18_Progetto_C45_mod_71",
+        "tank_id": 51105
+    },
+    "ussr_KV-220-2 试验型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KV-220-2 试验型",
+        "tank_name_s": "KV-220-2 T",
+        "tank_url": "R38_KV-220_beta",
+        "tank_id": 51201
+    },
+    "usa_T77": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T77",
+        "tank_name_s": "T77",
+        "tank_url": "A132_T77",
+        "tank_id": 51233
+    },
+    "czech_斯柯达 T45": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "斯柯达 T45",
+        "tank_name_s": "斯柯达 T45",
+        "tank_url": "Cz15_Skoda_T-45_Prem",
+        "tank_id": 51313
+    },
+    "uk_卡利班": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "卡利班",
+        "tank_name_s": "卡利班",
+        "tank_url": "GB112_Caliban",
+        "tank_id": 51537
+    },
+    "ussr_“丘吉尔” L": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "“丘吉尔” L",
+        "tank_name_s": "“丘吉尔” L",
+        "tank_url": "R33_Churchill_LL",
+        "tank_id": 51713
+    },
+    "uk_FV4201 酋长原型车": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "FV4201 酋长原型车",
+        "tank_name_s": "酋长原型车",
+        "tank_url": "GB110_FV4201_Chieftain_Prototype",
+        "tank_id": 51793
+    },
+    "uk_查理曼大帝": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "查理曼大帝",
+        "tank_name_s": "查理曼大帝",
+        "tank_url": "GB111_Charlemagne",
+        "tank_id": 52049
+    },
+    "czech_Vz.55 哥特勇士": {
+        "tank_nation": "czech",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "Vz.55 哥特勇士",
+        "tank_name_s": "Vz.55 GW",
+        "tank_url": "Cz17_Vz_55_CN",
+        "tank_id": 52081
+    },
+    "germany_B2 740(f)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 4,
+        "tank_name": "B2 740(f)",
+        "tank_name_s": "B2 740(f)",
+        "tank_url": "G35_B-1bis_captured",
+        "tank_id": 52241
+    },
+    "japan_虎(扶桑)": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "虎(扶桑)",
+        "tank_name_s": "虎(扶桑)",
+        "tank_url": "J19_Tiger_I_Jpn",
+        "tank_id": 52321
+    },
+    "usa_M6A2E1": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "M6A2E1",
+        "tank_name_s": "M6A2E1",
+        "tank_url": "A45_M6A2E1",
+        "tank_id": 52513
+    },
+    "japan_无名": {
+        "tank_nation": "japan",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "无名",
+        "tank_name_s": "无名",
+        "tank_url": "J29_Nameless",
+        "tank_id": 52577
+    },
+    "sweden_埃米尔 1951": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "埃米尔 1951",
+        "tank_name_s": "埃米尔 1951",
+        "tank_url": "S25_EMIL_51",
+        "tank_id": 52865
+    },
+    "ussr_KV-5": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "KV-5",
+        "tank_name_s": "KV-5",
+        "tank_url": "R54_KV-5",
+        "tank_id": 53249
+    },
+    "uk_TOG II": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "TOG II",
+        "tank_name_s": "TOG II",
+        "tank_url": "GB63_TOG_II",
+        "tank_id": 53841
+    },
+    "ussr_KV-220-2": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KV-220-2",
+        "tank_name_s": "KV-220-2",
+        "tank_url": "R38_KV-220",
+        "tank_id": 54017
+    },
+    "sweden_Strv K": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "Strv K",
+        "tank_name_s": "Strv K",
+        "tank_url": "S31_Strv_K",
+        "tank_id": 54145
+    },
+    "germany_“狮”式": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "“狮”式",
+        "tank_name_s": "“狮”式",
+        "tank_url": "G51_Lowe",
+        "tank_id": 54289
+    },
+    "uk_A33\"奋进\"": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "A33\"奋进\"",
+        "tank_name_s": "A33\"奋进\"",
+        "tank_url": "GB51_Excelsior",
+        "tank_id": 54353
+    },
+    "sweden_博福斯TRV": {
+        "tank_nation": "sweden",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "博福斯TRV",
+        "tank_name_s": "博福斯TRV",
+        "tank_url": "S32_Bofors_Tornvagn",
+        "tank_id": 54657
+    },
+    "uk_FV201(A45)": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "FV201(A45)",
+        "tank_name_s": "FV201(A45)",
+        "tank_url": "GB52_A45",
+        "tank_id": 55121
+    },
+    "ussr_IS-3A\"游隼\"": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-3A\"游隼\"",
+        "tank_name_s": "\"游隼\"",
+        "tank_url": "R115_IS-3_auto_S",
+        "tank_id": 56065
+    },
+    "germany_VK7501(K)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "VK7501(K)",
+        "tank_name_s": "VK7501 K",
+        "tank_url": "G141_VK7501K",
+        "tank_id": 56081
+    },
+    "uk_T95 酋长": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "T95 酋长",
+        "tank_name_s": "T95 酋长",
+        "tank_url": "GB88_T95_Chieftain_turret",
+        "tank_id": 56401
+    },
+    "uk_卡那封 AX": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "卡那封 AX",
+        "tank_name_s": "卡那封 AX",
+        "tank_url": "GB93_Caernarvon_AX",
+        "tank_id": 56657
+    },
+    "uk_T95/FV4201 酋长": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "T95/FV4201 酋长",
+        "tank_name_s": "T95/FV4201",
+        "tank_url": "GB98_T95_FV4201_Chieftain",
+        "tank_id": 57937
+    },
+    "ussr_260工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "260工程",
+        "tank_name_s": "260工程",
+        "tank_url": "R110_Object_260",
+        "tank_id": 58369
+    },
+    "germany_VK7201": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "VK7201",
+        "tank_name_s": "VK7201",
+        "tank_url": "G92_VK7201",
+        "tank_id": 58641
+    },
+    "usa_克莱斯勒 K GF": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "克莱斯勒 K GF",
+        "tank_name_s": "克莱斯勒 K GF",
+        "tank_url": "A115_Chrysler_K_GF",
+        "tank_id": 58657
+    },
+    "ussr_IS-5(730工程)": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-5(730工程)",
+        "tank_name_s": "IS-5",
+        "tank_url": "R113_Object_730",
+        "tank_id": 58881
+    },
+    "germany_\"虎王\" FL": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "\"虎王\" FL",
+        "tank_name_s": "\"虎王\" FL",
+        "tank_url": "G16_PzVIB_Tiger_II_FL",
+        "tank_id": 58897
+    },
+    "usa_T26E5": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T26E5",
+        "tank_name_s": "T26E5",
+        "tank_url": "A117_T26E5",
+        "tank_id": 58913
+    },
+    "china_111 VI": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "111 VI",
+        "tank_name_s": "111 VI",
+        "tank_url": "Ch58_111_Vz51",
+        "tank_id": 58929
+    },
+    "ussr_IS-2\"柏林\"": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "IS-2\"柏林\"",
+        "tank_name_s": "IS-2\"柏林\"",
+        "tank_url": "R71_IS_2B",
+        "tank_id": 59137
+    },
+    "germany_KW I (r)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "KW I (r)",
+        "tank_name_s": "KW I (r)",
+        "tank_url": "G163_Pz_Kpfw_KW_Ir_mit_75mm_kwk40",
+        "tank_id": 59153
+    },
+    "germany_VK6501(H)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 5,
+        "tank_name": "VK6501(H)",
+        "tank_name_s": "VK6501(H)",
+        "tank_url": "G122_VK6501H",
+        "tank_id": 59409
+    },
+    "usa_T34 B": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "T34 B",
+        "tank_name_s": "T34 B",
+        "tank_url": "A13_T34_hvy_BF",
+        "tank_id": 59425
+    },
+    "china_116-F3": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "116-F3",
+        "tank_name_s": "116-F3",
+        "tank_url": "Ch52_WZ_122_6_F3",
+        "tank_id": 59441
+    },
+    "ussr_244工程": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 6,
+        "tank_name": "244工程",
+        "tank_name_s": "244工程",
+        "tank_url": "R114_Object_244",
+        "tank_id": 60161
+    },
+    "usa_克莱斯勒 K": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "克莱斯勒 K",
+        "tank_name_s": "克莱斯勒 K",
+        "tank_url": "A115_Chrysler_K",
+        "tank_id": 60193
+    },
+    "china_BZ-176": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "BZ-176",
+        "tank_name_s": "BZ-176",
+        "tank_url": "Ch47_BZ_176",
+        "tank_id": 60209
+    },
+    "ussr_IS-3A": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "IS-3A",
+        "tank_name_s": "IS-3A",
+        "tank_url": "R115_IS-3_auto",
+        "tank_id": 60417
+    },
+    "china_WZ114": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "WZ114",
+        "tank_name_s": "WZ114",
+        "tank_url": "Ch45_WZ_114",
+        "tank_id": 60465
+    },
+    "china_WZ113-II": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "WZ113-II",
+        "tank_name_s": "WZ113-II",
+        "tank_url": "Ch46_113_140",
+        "tank_id": 60721
+    },
+    "uk_冈萨洛": {
+        "tank_nation": "uk",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "冈萨洛",
+        "tank_name_s": "冈萨洛",
+        "tank_url": "GB115_Gonsalo",
+        "tank_id": 60753
+    },
+    "ussr_777工程机动型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "777工程机动型",
+        "tank_name_s": "777工程机动型",
+        "tank_url": "R119_Object_777C",
+        "tank_id": 61185
+    },
+    "usa_\"虎王\"(C)": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "\"虎王\"(C)",
+        "tank_name_s": "\"虎王\"(C)",
+        "tank_url": "A126_PzVI_Tiger_II_capt",
+        "tank_id": 61473
+    },
+    "usa_AE一期": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "AE一期",
+        "tank_name_s": "AE一期",
+        "tank_url": "A125_AEP_1",
+        "tank_id": 61729
+    },
+    "usa_M54变节者": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "M54变节者",
+        "tank_name_s": "变节者",
+        "tank_url": "A124_T54E2",
+        "tank_id": 61985
+    },
+    "china_WZ111 QL": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "WZ111 QL",
+        "tank_name_s": "WZ111 QL",
+        "tank_url": "Ch41_WZ_111_QL",
+        "tank_id": 62257
+    },
+    "france_索玛 SM": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "索玛 SM",
+        "tank_name_s": "索玛 SM",
+        "tank_url": "F84_Somua_SM",
+        "tank_id": 62273
+    },
+    "china_113 BO": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 10,
+        "tank_name": "113 BO",
+        "tank_name_s": "113 BO",
+        "tank_url": "Ch22_113_Beijing_Opera",
+        "tank_id": 62513
+    },
+    "ussr_KRT-1": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "KRT-1",
+        "tank_name_s": "KRT-1",
+        "tank_url": "R123_Kirovets_1",
+        "tank_id": 62721
+    },
+    "germany_VK10001(P)": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "VK10001(P)",
+        "tank_name_s": "VK10001(P)",
+        "tank_url": "G115_Typ_205_4_Jun",
+        "tank_id": 62737
+    },
+    "usa_1B概念车": {
+        "tank_nation": "usa",
+        "tank_type": "heavyTank",
+        "tank_rank": 9,
+        "tank_name": "1B概念车",
+        "tank_name_s": "1B概念车",
+        "tank_url": "A128_concept_1b",
+        "tank_id": 62753
+    },
+    "france_AMX M449": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "AMX M449",
+        "tank_name_s": "AMX M4 49",
+        "tank_url": "F74_AMX_M4_1949",
+        "tank_id": 62785
+    },
+    "germany_VK4503": {
+        "tank_nation": "germany",
+        "tank_type": "heavyTank",
+        "tank_rank": 7,
+        "tank_name": "VK4503",
+        "tank_name_s": "VK4503",
+        "tank_url": "G118_VK4503",
+        "tank_id": 62993
+    },
+    "ussr_KV-4 K型": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "KV-4 K型",
+        "tank_name_s": "KV-4 K型",
+        "tank_url": "R128_KV4_Kreslavskiy",
+        "tank_id": 63233
+    },
+    "ussr_乌达尼": {
+        "tank_nation": "ussr",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "乌达尼",
+        "tank_name_s": "乌达尼",
+        "tank_url": "R188_Object_259A_CN",
+        "tank_id": 64001
+    },
+    "france_FCM 50t": {
+        "tank_nation": "france",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "FCM 50t",
+        "tank_name_s": "FCM 50t",
+        "tank_url": "F65_FCM_50t",
+        "tank_id": 64065
+    },
+    "china_112": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "112",
+        "tank_name_s": "112",
+        "tank_url": "Ch23_112",
+        "tank_id": 64561
+    },
+    "china_WZ111 T型": {
+        "tank_nation": "china",
+        "tank_type": "heavyTank",
+        "tank_rank": 8,
+        "tank_name": "WZ111 T型",
+        "tank_name_s": "WZ111 T型",
+        "tank_url": "Ch03_WZ_111_A",
+        "tank_id": 65073
+    },
+    "ussr_SU-85": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "SU-85",
+        "tank_name_s": "SU-85",
+        "tank_url": "R02_SU-85",
+        "tank_id": 257
+    },
+    "germany_III号突击炮G型": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "III号突击炮G型",
+        "tank_name_s": "III号突击炮G型",
+        "tank_url": "G05_StuG_40_AusfG",
+        "tank_id": 1041
+    },
+    "germany_IV号坦克歼击车": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "IV号坦克歼击车",
+        "tank_name_s": "IV号坦克歼击车",
+        "tank_url": "G17_JagdPzIV",
+        "tank_id": 1553
+    },
+    "germany_\"追猎者\"": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "\"追猎者\"",
+        "tank_name_s": "追猎者",
+        "tank_url": "G09_Hetzer",
+        "tank_id": 1809
+    },
+    "ussr_SU-152": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "SU-152",
+        "tank_name_s": "SU-152",
+        "tank_url": "R18_SU-152",
+        "tank_id": 2305
+    },
+    "france_FCM 36 Pak40": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "FCM 36 Pak40",
+        "tank_name_s": "FCM36 Pak40",
+        "tank_url": "F27_FCM_36Pak40",
+        "tank_id": 2369
+    },
+    "usa_T30": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "T30",
+        "tank_name_s": "T30",
+        "tank_url": "A14_T30",
+        "tank_id": 2593
+    },
+    "sweden_PFM-42": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "PFM-42",
+        "tank_name_s": "PFM-42",
+        "tank_url": "S09_L_120_TD",
+        "tank_id": 2689
+    },
+    "sweden_Ikv 72": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "Ikv 72",
+        "tank_name_s": "Ikv 72",
+        "tank_url": "S20_Ikv_72",
+        "tank_id": 2945
+    },
+    "sweden_SM-43": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "SM-43",
+        "tank_name_s": "SM-43",
+        "tank_url": "S19_Sav_M43",
+        "tank_id": 3201
+    },
+    "sweden_Ikv 103": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "Ikv 103",
+        "tank_name_s": "Ikv 103",
+        "tank_url": "S14_Ikv_103",
+        "tank_id": 3457
+    },
+    "ussr_SU-100": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "SU-100",
+        "tank_name_s": "SU-100",
+        "tank_url": "R17_SU-100",
+        "tank_id": 3585
+    },
+    "germany_I号坦克歼击车": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "I号坦克歼击车",
+        "tank_name_s": "I号坦克歼击车",
+        "tank_url": "G21_PanzerJager_I",
+        "tank_id": 3601
+    },
+    "sweden_Ikv 65A II": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "Ikv 65A II",
+        "tank_name_s": "Ikv 65A II",
+        "tank_url": "S08_Ikv_65_Alt_2",
+        "tank_id": 3713
+    },
+    "germany_“猎豹”": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "“猎豹”",
+        "tank_name_s": "“猎豹”",
+        "tank_url": "G18_JagdPanther",
+        "tank_id": 3857
+    },
+    "sweden_Ikv 90TB": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "Ikv 90TB",
+        "tank_name_s": "Ikv 90TB",
+        "tank_url": "S06_Ikv_90_Typ_B_Bofors",
+        "tank_id": 3969
+    },
+    "sweden_UDES 03": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "UDES 03",
+        "tank_name_s": "UDES 03",
+        "tank_url": "S21_UDES_03",
+        "tank_id": 4225
+    },
+    "italy_巴索托 M43": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "巴索托 M43",
+        "tank_name_s": "巴索托",
+        "tank_url": "It27_M43_da_105_25_Bassoto",
+        "tank_id": 4257
+    },
+    "sweden_Strv 1030": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "Strv 1030",
+        "tank_name_s": "Strv 1030",
+        "tank_url": "S10_Strv_103_0_Series",
+        "tank_id": 4481
+    },
+    "italy_SMV CC-56": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "SMV CC-56",
+        "tank_name_s": "SMV CC-56",
+        "tank_url": "It26_CC_56",
+        "tank_id": 4513
+    },
+    "sweden_Strv 103B": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "Strv 103B",
+        "tank_name_s": "Strv 103B",
+        "tank_url": "S11_Strv_103B",
+        "tank_id": 4737
+    },
+    "italy_SMV CC-67": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "SMV CC-67",
+        "tank_name_s": "SMV CC-67",
+        "tank_url": "It31_CC_67_B",
+        "tank_id": 4769
+    },
+    "ussr_AT-1": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "AT-1",
+        "tank_name_s": "AT-1",
+        "tank_url": "R10_AT-1",
+        "tank_id": 5121
+    },
+    "italy_CC 3 “弥诺陶洛斯”": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "CC 3 “弥诺陶洛斯”",
+        "tank_name_s": "“弥诺陶洛斯”",
+        "tank_url": "It23_CC_3",
+        "tank_id": 5281
+    },
+    "italy_CC 1 Mk.2": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "CC 1 Mk.2",
+        "tank_name_s": "CC 1 Mk.2",
+        "tank_url": "It24_Controcarro_1_Mk2",
+        "tank_id": 5537
+    },
+    "italy_塞莫文特 M41": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "塞莫文特 M41",
+        "tank_name_s": "塞莫文特",
+        "tank_url": "It28_Semovente_M41_Da_75_18",
+        "tank_id": 5793
+    },
+    "usa_T3 HMC": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "T3 HMC",
+        "tank_name_s": "T3 HMC",
+        "tank_url": "A46_T3",
+        "tank_id": 6177
+    },
+    "japan_四式炮车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "四式炮车",
+        "tank_name_s": "四式炮车",
+        "tank_url": "J32_Chi_To_SPG",
+        "tank_id": 6241
+    },
+    "ussr_SU-76M": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "SU-76M",
+        "tank_name_s": "SU-76M",
+        "tank_url": "R24_SU-76",
+        "tank_id": 6401
+    },
+    "usa_T56 GMC": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "T56 GMC",
+        "tank_name_s": "T56 GMC",
+        "tank_url": "A109_T56_GMC",
+        "tank_id": 6433
+    },
+    "china_T-26G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "T-26G",
+        "tank_name_s": "T-26G",
+        "tank_url": "Ch30_T-26G_FT",
+        "tank_id": 6449
+    },
+    "japan_五式2型炮战车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "五式2型炮战车",
+        "tank_name_s": "五式2型炮战车",
+        "tank_url": "J33_Ho_Ri_2",
+        "tank_id": 6497
+    },
+    "germany_“黄鼠狼”II": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "“黄鼠狼”II",
+        "tank_name_s": "“黄鼠狼”II",
+        "tank_url": "G20_Marder_II",
+        "tank_id": 6673
+    },
+    "china_M3G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "M3G",
+        "tank_name_s": "M3G",
+        "tank_url": "Ch31_M3G_FT",
+        "tank_id": 6705
+    },
+    "japan_五式1型炮战车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "五式1型炮战车",
+        "tank_name_s": "五式1型炮战车",
+        "tank_url": "J34_Ho_Ri_1",
+        "tank_id": 6753
+    },
+    "ussr_SU-85B": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "SU-85B",
+        "tank_name_s": "SU-85B",
+        "tank_url": "R25_GAZ-74b",
+        "tank_id": 6913
+    },
+    "usa_M10 \"狼獾\"": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "M10 \"狼獾\"",
+        "tank_name_s": "M10 \"狼獾\"",
+        "tank_url": "A30_M10_Wolverine",
+        "tank_id": 6945
+    },
+    "china_SU-76G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "SU-76G",
+        "tank_name_s": "SU-76G",
+        "tank_url": "Ch32_SU-76G_FT",
+        "tank_id": 6961
+    },
+    "japan_三式炮战车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "三式炮战车",
+        "tank_name_s": "三式炮战车",
+        "tank_url": "J37_Type_3_Ho_Ni_III",
+        "tank_id": 7009
+    },
+    "usa_M36 \"杰克逊\"": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "M36 \"杰克逊\"",
+        "tank_name_s": "\"杰克逊\"",
+        "tank_url": "A31_M36_Slagger",
+        "tank_id": 7201
+    },
+    "china_60G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "60G",
+        "tank_name_s": "60G",
+        "tank_url": "Ch33_60G_FT",
+        "tank_id": 7217
+    },
+    "japan_试验型重炮战车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "试验型重炮战车",
+        "tank_name_s": "试验型重炮战车",
+        "tank_url": "J38_Type_95_Ji_Ro",
+        "tank_id": 7265
+    },
+    "ussr_ISU-152": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "ISU-152",
+        "tank_name_s": "ISU-152",
+        "tank_url": "R47_ISU-152",
+        "tank_id": 7425
+    },
+    "china_WZ131G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "WZ131G",
+        "tank_name_s": "WZ131G",
+        "tank_url": "Ch34_WZ131G_FT",
+        "tank_id": 7473
+    },
+    "germany_\"斐迪南\"": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "\"斐迪南\"",
+        "tank_name_s": "\"斐迪南\"",
+        "tank_url": "G37_Ferdinand",
+        "tank_id": 7697
+    },
+    "usa_T40": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "T40",
+        "tank_name_s": "T40",
+        "tank_url": "A29_T40",
+        "tank_id": 7713
+    },
+    "china_T-34-2G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "T-34-2G",
+        "tank_name_s": "T-34-2G",
+        "tank_url": "Ch35_T-34-2G_FT",
+        "tank_id": 7729
+    },
+    "france_雷诺 FT AC": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "雷诺 FT AC",
+        "tank_name_s": "雷诺 FT AC",
+        "tank_url": "F30_RenaultFT_AC",
+        "tank_id": 7745
+    },
+    "germany_“猎虎”": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "“猎虎”",
+        "tank_name_s": "“猎虎”",
+        "tank_url": "G44_JagdTiger",
+        "tank_id": 7953
+    },
+    "china_WZ111-1G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "WZ111-1G",
+        "tank_name_s": "WZ111-1G",
+        "tank_url": "Ch36_WZ111_1G_FT",
+        "tank_id": 7985
+    },
+    "uk_瓦伦丁AT": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "瓦伦丁AT",
+        "tank_name_s": "瓦伦丁AT",
+        "tank_url": "GB42_Valentine_AT",
+        "tank_id": 8017
+    },
+    "ussr_704工程": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "704工程",
+        "tank_name_s": "704工程",
+        "tank_url": "R53_Object_704",
+        "tank_id": 8193
+    },
+    "usa_T28": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "T28",
+        "tank_name_s": "T28",
+        "tank_url": "A39_T28",
+        "tank_id": 8225
+    },
+    "china_WZ111G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "WZ111G",
+        "tank_name_s": "WZ111G",
+        "tank_url": "Ch37_WZ111G_FT",
+        "tank_id": 8241
+    },
+    "france_雷诺 UE 57": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "雷诺 UE 57",
+        "tank_name_s": "雷诺 UE 57",
+        "tank_url": "F52_RenaultUE57",
+        "tank_id": 8257
+    },
+    "uk_UC 2磅炮": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 2,
+        "tank_name": "UC 2磅炮",
+        "tank_name_s": "UC 2磅炮",
+        "tank_url": "GB39_Universal_CarrierQF2",
+        "tank_id": 8273
+    },
+    "japan_五式3型炮战车": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "五式3型炮战车",
+        "tank_name_s": "五式3型炮战车",
+        "tank_url": "J35_Ho_Ri_3",
+        "tank_id": 8289
+    },
+    "china_WZ113G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "WZ113G",
+        "tank_name_s": "WZ113G",
+        "tank_url": "Ch38_WZ113G_FT",
+        "tank_id": 8497
+    },
+    "uk_AT 15": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "AT 15",
+        "tank_name_s": "AT 15",
+        "tank_url": "GB72_AT15",
+        "tank_id": 8529
+    },
+    "usa_T95": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "T95",
+        "tank_name_s": "T95",
+        "tank_url": "A40_T95",
+        "tank_id": 8737
+    },
+    "uk_AT 2": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "AT 2",
+        "tank_name_s": "AT 2",
+        "tank_url": "GB73_AT2",
+        "tank_id": 8785
+    },
+    "uk_\"复仇女神\"": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "\"复仇女神\"",
+        "tank_name_s": "\"复仇女神\"",
+        "tank_url": "GB57_Alecto",
+        "tank_id": 9041
+    },
+    "usa_T25 AT": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "T25 AT",
+        "tank_name_s": "T25 AT",
+        "tank_url": "A64_T25_AT",
+        "tank_id": 9249
+    },
+    "uk_FV215b (183)": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "FV215b (183)",
+        "tank_name_s": "FV215b (183)",
+        "tank_url": "GB48_FV215b_183",
+        "tank_id": 9297
+    },
+    "uk_AT 8": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "AT 8",
+        "tank_name_s": "AT 8",
+        "tank_url": "GB74_AT8",
+        "tank_id": 9553
+    },
+    "france_索玛 S-40": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "索玛 S-40",
+        "tank_name_s": "索玛 S-40",
+        "tank_url": "F32_Somua_Sau_40",
+        "tank_id": 9793
+    },
+    "uk_“丘吉尔” GC": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "“丘吉尔” GC",
+        "tank_name_s": "丘吉尔 GC",
+        "tank_url": "GB40_Gun_Carrier_Churchill",
+        "tank_id": 9809
+    },
+    "ussr_SU-101": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "SU-101",
+        "tank_name_s": "SU-101",
+        "tank_url": "R58_SU-101",
+        "tank_id": 9985
+    },
+    "france_S-35 CA": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "S-35 CA",
+        "tank_name_s": "S35 CA",
+        "tank_url": "F33_S_35CA",
+        "tank_id": 10049
+    },
+    "uk_AT 7": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "AT 7",
+        "tank_name_s": "AT 7",
+        "tank_url": "GB75_AT7",
+        "tank_id": 10065
+    },
+    "ussr_SU-100M1": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "SU-100M1",
+        "tank_name_s": "SU-100M1",
+        "tank_url": "R74_SU100M1",
+        "tank_id": 10241
+    },
+    "usa_M8A1": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "M8A1",
+        "tank_name_s": "M8A1",
+        "tank_url": "A57_M8A1",
+        "tank_id": 10273
+    },
+    "usa_T67": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "T67",
+        "tank_name_s": "T67",
+        "tank_url": "A58_T67",
+        "tank_id": 10529
+    },
+    "france_AMX AC 1946型": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "AMX AC 1946型",
+        "tank_name_s": "AMX AC 1946型",
+        "tank_url": "F35_AMX_AC_Mle1946",
+        "tank_id": 10817
+    },
+    "germany_埃米尔": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "埃米尔",
+        "tank_name_s": "埃米尔",
+        "tank_url": "G43_Sturer_Emil",
+        "tank_id": 11025
+    },
+    "usa_T25/2": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "T25/2",
+        "tank_name_s": "T25/2",
+        "tank_url": "A72_T25_2",
+        "tank_id": 11041
+    },
+    "france_AMX 50 福熙": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "AMX 50 福熙",
+        "tank_name_s": "AMX 50 福熙",
+        "tank_url": "F37_AMX50_Foch",
+        "tank_id": 11073
+    },
+    "germany_“黄鼠狼”III": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "“黄鼠狼”III",
+        "tank_name_s": "“黄鼠狼”III",
+        "tank_url": "G39_Marder_III",
+        "tank_id": 11281
+    },
+    "usa_T28 原型车": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "T28 原型车",
+        "tank_name_s": "T28 原型车",
+        "tank_url": "A68_T28_Prototype",
+        "tank_id": 11297
+    },
+    "germany_“猎豹”II": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "“猎豹”II",
+        "tank_name_s": "“猎豹”II",
+        "tank_url": "G71_JagdPantherII",
+        "tank_id": 11537
+    },
+    "usa_M18 \"地狱猫\"": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "M18 \"地狱猫\"",
+        "tank_name_s": "M18 \"地狱猫\"",
+        "tank_url": "A41_M18_Hellcat",
+        "tank_id": 11553
+    },
+    "france_ARL V39": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "ARL V39",
+        "tank_name_s": "ARL V39",
+        "tank_url": "F34_ARL_V39",
+        "tank_id": 11585
+    },
+    "germany_\"犀牛\"式": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "\"犀牛\"式",
+        "tank_name_s": "\"犀牛\"式",
+        "tank_url": "G40_Nashorn",
+        "tank_id": 11793
+    },
+    "germany_E-100坦克歼击车": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "E-100坦克歼击车",
+        "tank_name_s": "E-100坦克歼击车",
+        "tank_url": "G72_JagdPz_E100",
+        "tank_id": 12049
+    },
+    "france_AMX AC 1948型": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "AMX AC 1948型",
+        "tank_name_s": "AMX AC 1948型",
+        "tank_url": "F36_AMX_AC_Mle1948",
+        "tank_id": 12097
+    },
+    "usa_T110E4": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "T110E4",
+        "tank_name_s": "T110E4",
+        "tank_url": "A83_T110E4",
+        "tank_id": 13089
+    },
+    "uk_FV4004 康威": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "FV4004 康威",
+        "tank_name_s": "FV4004 康威",
+        "tank_url": "GB81_FV4004",
+        "tank_id": 13137
+    },
+    "uk_弓箭手": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "弓箭手",
+        "tank_name_s": "弓箭手",
+        "tank_url": "GB44_Archer",
+        "tank_id": 13393
+    },
+    "ussr_268工程": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "268工程",
+        "tank_name_s": "268工程",
+        "tank_url": "R88_Object268",
+        "tank_id": 13569
+    },
+    "usa_T110E3": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "T110E3",
+        "tank_name_s": "T110E3",
+        "tank_url": "A85_T110E3",
+        "tank_id": 13857
+    },
+    "france_AMX 50 福熙 155": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "AMX 50 福熙 155",
+        "tank_name_s": "AMX 50 福熙 155",
+        "tank_url": "F64_AMX_50Fosh_155",
+        "tank_id": 13889
+    },
+    "uk_FV4005": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "FV4005",
+        "tank_name_s": "FV4005",
+        "tank_url": "GB83_FV4005",
+        "tank_id": 13905
+    },
+    "uk_挑战者": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "挑战者",
+        "tank_name_s": "挑战者",
+        "tank_url": "GB41_Challenger",
+        "tank_id": 14161
+    },
+    "uk_阿喀琉斯": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "阿喀琉斯",
+        "tank_name_s": "阿喀琉斯",
+        "tank_url": "GB45_Achilles_IIC",
+        "tank_id": 14417
+    },
+    "uk_御夫座": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "御夫座",
+        "tank_name_s": "御夫座",
+        "tank_url": "GB80_Charioteer",
+        "tank_id": 14673
+    },
+    "uk_FV217": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "FV217",
+        "tank_name_s": "FV217",
+        "tank_url": "GB92_FV217",
+        "tank_id": 15953
+    },
+    "germany_Sfl IVc": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "Sfl IVc",
+        "tank_name_s": "Sfl IVc",
+        "tank_url": "G76_Pz_Sfl_IVc",
+        "tank_id": 16145
+    },
+    "germany_IV WT": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "IV WT",
+        "tank_name_s": "IV WT",
+        "tank_url": "G97_Waffentrager_IV",
+        "tank_id": 16401
+    },
+    "germany_Rhm·B WT": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "Rhm·B WT",
+        "tank_name_s": "Rhm·B WT",
+        "tank_url": "G99_RhB_Waffentrager",
+        "tank_id": 16657
+    },
+    "germany_E-100 WT": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "E-100 WT",
+        "tank_name_s": "E-100 WT",
+        "tank_url": "G98_Waffentrager_E100",
+        "tank_id": 16913
+    },
+    "france_AMX 50 福熙 B": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "AMX 50 福熙 B",
+        "tank_name_s": "AMX 50 福熙 B",
+        "tank_url": "F64_AMX_50Fosh_B",
+        "tank_id": 17729
+    },
+    "germany_III号突击炮B型": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "III号突击炮B型",
+        "tank_name_s": "III号突击炮B型",
+        "tank_url": "G101_StuG_III",
+        "tank_id": 17937
+    },
+    "germany_“蟋蟀”15": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "“蟋蟀”15",
+        "tank_name_s": "“蟋蟀”15",
+        "tank_url": "G121_Grille_15_L63",
+        "tank_id": 19217
+    },
+    "ussr_268工程IV型": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "268工程IV型",
+        "tank_name_s": "268工程IV型",
+        "tank_url": "R149_Object_268_4",
+        "tank_id": 20225
+    },
+    "ussr_263工程": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "263工程",
+        "tank_name_s": "263工程",
+        "tank_url": "R93_Object263",
+        "tank_id": 21249
+    },
+    "germany_07HK主战方案3型": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "07HK主战方案3型",
+        "tank_name_s": "07HK主战3型",
+        "tank_url": "G159_KPZ_3_Project_07_HK",
+        "tank_id": 25873
+    },
+    "ussr_森林之灵": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "森林之灵",
+        "tank_name_s": "森林之灵",
+        "tank_url": "R159_SU_130PM_DR",
+        "tank_id": 27905
+    },
+    "ussr_SU-2-122": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "SU-2-122",
+        "tank_name_s": "SU-2-122",
+        "tank_url": "R202_SU_2_122",
+        "tank_id": 29441
+    },
+    "ussr_ISU-152K": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "ISU-152K",
+        "tank_name_s": "ISU-152K",
+        "tank_url": "R177_ISU_152K_BL10",
+        "tank_id": 31745
+    },
+    "ussr_K-91-PT": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "K-91-PT",
+        "tank_name_s": "K-91-PT",
+        "tank_url": "R183_K_91_PT",
+        "tank_id": 32769
+    },
+    "germany_KJPZ TIII歼击车": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "KJPZ TIII歼击车",
+        "tank_name_s": "TIII歼击车",
+        "tank_url": "G168_KJpz_T_III",
+        "tank_id": 33041
+    },
+    "usa_TL-7": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "TL-7",
+        "tank_name_s": "TL-7",
+        "tank_url": "A146_TL_7_120",
+        "tank_id": 34337
+    },
+    "germany_WT 12": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "WT 12",
+        "tank_name_s": "WT 12",
+        "tank_url": "G98_Waffentrager_E100_WO",
+        "tank_id": 44049
+    },
+    "ussr_SU-130PM": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "SU-130PM",
+        "tank_name_s": "SU-130PM",
+        "tank_url": "R159_SU_130PM",
+        "tank_id": 45057
+    },
+    "germany_Sfl IC": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 4,
+        "tank_name": "Sfl IC",
+        "tank_name_s": "Sfl IC",
+        "tank_url": "G151_Pz_Sfl_IC",
+        "tank_id": 46097
+    },
+    "ussr_T-103": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "T-103",
+        "tank_name_s": "T-103",
+        "tank_url": "R135_T_103",
+        "tank_id": 48385
+    },
+    "germany_JPZ4-5 105": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "JPZ4-5 105",
+        "tank_name_s": "JPZ4-5 105",
+        "tank_url": "G112_KanonenJagdPanzer_105",
+        "tank_id": 48401
+    },
+    "germany_E-100 WT(P)": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "E-100 WT(P)",
+        "tank_name_s": "E-100 WT(P)",
+        "tank_url": "G98_Waffentrager_E100_P",
+        "tank_id": 48657
+    },
+    "germany_\"猎虎\"原型车": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "\"猎虎\"原型车",
+        "tank_name_s": "\"猎虎\"原型车",
+        "tank_url": "G44_JagdTigerH",
+        "tank_id": 49425
+    },
+    "germany_天蝎 G": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "天蝎 G",
+        "tank_name_s": "天蝎 G",
+        "tank_url": "G114_Rheinmetall_Skorpian",
+        "tank_id": 50193
+    },
+    "italy_SMV CC-64 \"蝰蛇\"": {
+        "tank_nation": "italy",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "SMV CC-64 \"蝰蛇\"",
+        "tank_name_s": "\"蝰蛇\"",
+        "tank_url": "It30_CC_mod_64_Prem",
+        "tank_id": 50337
+    },
+    "ussr_268工程V型": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "268工程V型",
+        "tank_name_s": "268工程V型",
+        "tank_url": "R126_Object_730_5",
+        "tank_id": 50689
+    },
+    "sweden_Strv S1": {
+        "tank_nation": "sweden",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "Strv S1",
+        "tank_name_s": "Strv S1",
+        "tank_url": "S22_Strv_S1",
+        "tank_id": 52097
+    },
+    "uk_GSOR 1008": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "GSOR 1008",
+        "tank_name_s": "GSOR 1008",
+        "tank_url": "GB109_GSOR_1008",
+        "tank_id": 52305
+    },
+    "uk_A39\"土龟\"": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "A39\"土龟\"",
+        "tank_name_s": "A39\"土龟\"",
+        "tank_url": "GB32_Tortoise",
+        "tank_id": 52561
+    },
+    "japan_五式坦歼": {
+        "tank_nation": "japan",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "五式坦歼",
+        "tank_name_s": "五式坦歼",
+        "tank_url": "J31_Type_5_KaRi",
+        "tank_id": 53345
+    },
+    "ussr_SU-85I": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "SU-85I",
+        "tank_name_s": "SU-85I",
+        "tank_url": "R78_SU_85I",
+        "tank_id": 53761
+    },
+    "uk_AT 15A": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "AT 15A",
+        "tank_name_s": "AT 15A",
+        "tank_url": "GB71_AT_15A",
+        "tank_id": 54097
+    },
+    "ussr_SU-76I": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 3,
+        "tank_name": "SU-76I",
+        "tank_name_s": "SU-76I",
+        "tank_url": "R50_SU76I",
+        "tank_id": 54273
+    },
+    "ussr_SU-100Y": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "SU-100Y",
+        "tank_name_s": "SU-100Y",
+        "tank_url": "R49_SU100Y",
+        "tank_id": 54785
+    },
+    "ussr_SU-122-44": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "SU-122-44",
+        "tank_name_s": "SU-122-44",
+        "tank_url": "R89_SU122_44",
+        "tank_id": 55297
+    },
+    "germany_“猎虎” 88 L/71": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "“猎虎” 88 L/71",
+        "tank_name_s": "“猎虎” 88 L/71",
+        "tank_url": "G65_JagdTiger_SdKfz_185",
+        "tank_id": 55313
+    },
+    "germany_E-25": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "E-25",
+        "tank_name_s": "E-25",
+        "tank_url": "G48_E-25",
+        "tank_id": 55569
+    },
+    "usa_M56“蝎”式": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "M56“蝎”式",
+        "tank_name_s": "“蝎”式",
+        "tank_url": "A101_M56",
+        "tank_id": 56353
+    },
+    "usa_T28(概念车)": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "T28(概念车)",
+        "tank_name_s": "T28(概念车)",
+        "tank_url": "A102_T28_concept",
+        "tank_id": 56609
+    },
+    "germany_大麦克斯": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "大麦克斯",
+        "tank_name_s": "大麦克斯",
+        "tank_url": "G41_DickerMax",
+        "tank_id": 57105
+    },
+    "uk_圣剑": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "圣剑",
+        "tank_name_s": "圣剑",
+        "tank_url": "GB96_Excalibur",
+        "tank_id": 57681
+    },
+    "ussr_ISU-130": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "ISU-130",
+        "tank_name_s": "ISU-130",
+        "tank_url": "R111_ISU130",
+        "tank_id": 58625
+    },
+    "ussr_ISU-122S": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "ISU-122S",
+        "tank_name_s": "ISU-122S",
+        "tank_url": "R116_ISU122C_Berlin",
+        "tank_id": 59649
+    },
+    "france_AMX AC 1948型 FL": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "AMX AC 1948型 FL",
+        "tank_name_s": "AMX AC 1948型 FL",
+        "tank_url": "F36_AMX_AC_Mle1948_FL",
+        "tank_id": 59713
+    },
+    "uk_“土龟” Mk.I": {
+        "tank_nation": "uk",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "“土龟” Mk.I",
+        "tank_name_s": "“土龟” Mk.I",
+        "tank_url": "GB99_Turtle_Mk1",
+        "tank_id": 59985
+    },
+    "usa_TS-5": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "TS-5",
+        "tank_name_s": "TS-5",
+        "tank_url": "A122_TS-5",
+        "tank_id": 60449
+    },
+    "czech_ShPTK-TVP 100": {
+        "tank_nation": "czech",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "ShPTK-TVP 100",
+        "tank_name_s": "ShPTK-TVP",
+        "tank_url": "Cz20_ShPTK_TVP_100_mm",
+        "tank_id": 60529
+    },
+    "germany_IV号突击炮": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "IV号突击炮",
+        "tank_name_s": "IV号突击炮",
+        "tank_url": "G104_Stug_IV",
+        "tank_id": 60689
+    },
+    "china_114 SP2": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 10,
+        "tank_name": "114 SP2",
+        "tank_name_s": "114 SP2",
+        "tank_url": "Ch44_114_SP2",
+        "tank_id": 60977
+    },
+    "usa_T78": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 6,
+        "tank_name": "T78",
+        "tank_name_s": "T78",
+        "tank_url": "A123_T78",
+        "tank_id": 61217
+    },
+    "france_M10 RBFM": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 5,
+        "tank_name": "M10 RBFM",
+        "tank_name_s": "M10 RBFM",
+        "tank_url": "F112_M10_RBFM",
+        "tank_id": 61249
+    },
+    "germany_斯太尔 WT": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "斯太尔 WT",
+        "tank_name_s": "斯太尔 WT",
+        "tank_url": "G109_Steyr_WT",
+        "tank_id": 61713
+    },
+    "france_AMX 105突击型": {
+        "tank_nation": "france",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "AMX 105突击型",
+        "tank_name_s": "AMX 105突击型",
+        "tank_url": "F89_Canon_dassaut_de_105",
+        "tank_id": 61761
+    },
+    "germany_JPZ4-5": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "JPZ4-5",
+        "tank_name_s": "JPZ4-5",
+        "tank_url": "G112_KanonenJagdPanzer",
+        "tank_id": 61969
+    },
+    "ussr_KV-4 KTTS": {
+        "tank_nation": "ussr",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "KV-4 KTTS",
+        "tank_name_s": "KV-4 KTTS",
+        "tank_url": "R121_KV4_KTT",
+        "tank_id": 62209
+    },
+    "germany_天蝎": {
+        "tank_nation": "germany",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "天蝎",
+        "tank_name_s": "天蝎",
+        "tank_url": "G114_Skorpian",
+        "tank_id": 62481
+    },
+    "usa_超级地狱猫": {
+        "tank_nation": "usa",
+        "tank_type": "AT-SPG",
+        "tank_rank": 7,
+        "tank_name": "超级地狱猫",
+        "tank_name_s": "超级地狱猫",
+        "tank_url": "A130_Super_Hellcat",
+        "tank_id": 62497
+    },
+    "china_WZ120G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 9,
+        "tank_name": "WZ120G",
+        "tank_name_s": "WZ120G",
+        "tank_url": "Ch40_WZ120G_FT",
+        "tank_id": 63025
+    },
+    "china_WZ120-1G": {
+        "tank_nation": "china",
+        "tank_type": "AT-SPG",
+        "tank_rank": 8,
+        "tank_name": "WZ120-1G",
+        "tank_name_s": "WZ120-1G",
+        "tank_url": "Ch39_WZ120_1G_FT",
+        "tank_id": 63281
+    },
+    "germany_“野蜂”": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 6,
+        "tank_name": "“野蜂”",
+        "tank_name_s": "“野蜂”",
+        "tank_url": "G02_Hummel",
+        "tank_id": 273
+    },
+    "france_雷诺 FT BS": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 2,
+        "tank_name": "雷诺 FT BS",
+        "tank_name_s": "雷诺 FT BS",
+        "tank_url": "F20_RenaultBS",
+        "tank_id": 833
+    },
+    "ussr_S-51": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "S-51",
+        "tank_name_s": "S-51",
+        "tank_url": "R15_S-51",
+        "tank_id": 1793
+    },
+    "usa_T1 HMC": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 2,
+        "tank_name": "T1 HMC",
+        "tank_name_s": "T1 HMC",
+        "tank_url": "A107_T1_HMC",
+        "tank_id": 2081
+    },
+    "france_105 leFH18B2": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "105 leFH18B2",
+        "tank_name_s": "105 leFH18B2",
+        "tank_url": "F28_105_leFH18B2",
+        "tank_id": 2113
+    },
+    "germany_“野牛”": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "“野牛”",
+        "tank_name_s": "“野牛”",
+        "tank_url": "G11_Bison_I",
+        "tank_id": 2833
+    },
+    "france_洛林39 LAM": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "洛林39 LAM",
+        "tank_name_s": "洛林39 LAM",
+        "tank_url": "F21_Lorraine39_L_AM",
+        "tank_id": 3393
+    },
+    "uk_司事 II": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "司事 II",
+        "tank_name_s": "司事 II",
+        "tank_url": "GB27_Sexton",
+        "tank_id": 3409
+    },
+    "usa_M7\"牧师\"": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "M7\"牧师\"",
+        "tank_name_s": "M7\"牧师\"",
+        "tank_url": "A16_M7_Priest",
+        "tank_id": 3617
+    },
+    "ussr_SU-18": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 2,
+        "tank_name": "SU-18",
+        "tank_name_s": "SU-18",
+        "tank_url": "R16_SU-18",
+        "tank_id": 3841
+    },
+    "ussr_SU-14-2": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 8,
+        "tank_name": "SU-14-2",
+        "tank_name_s": "SU-14-2",
+        "tank_url": "R27_SU-14",
+        "tank_id": 4097
+    },
+    "usa_M41": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "M41",
+        "tank_name_s": "M41",
+        "tank_url": "A18_M41",
+        "tank_id": 4129
+    },
+    "france_AMX 105AM": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "AMX 105AM",
+        "tank_name_s": "AMX 105AM",
+        "tank_url": "F22_AMX_105AM",
+        "tank_id": 4161
+    },
+    "germany_“野牛” II": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "“野牛” II",
+        "tank_name_s": "“野牛” II",
+        "tank_url": "G22_Sturmpanzer_II",
+        "tank_id": 4625
+    },
+    "usa_M37": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "M37",
+        "tank_name_s": "M37",
+        "tank_url": "A17_M37",
+        "tank_id": 4641
+    },
+    "france_AMX 13 F3 AM": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 6,
+        "tank_name": "AMX 13 F3 AM",
+        "tank_name_s": "AMX 13 F3 AM",
+        "tank_url": "F23_AMX_13F3AM",
+        "tank_id": 4673
+    },
+    "ussr_SU-5": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "SU-5",
+        "tank_name_s": "SU-5",
+        "tank_url": "R14_SU-5",
+        "tank_id": 4865
+    },
+    "ussr_SU-8": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 6,
+        "tank_name": "SU-8",
+        "tank_name_s": "SU-8",
+        "tank_url": "R26_SU-8",
+        "tank_id": 5633
+    },
+    "germany_“蟋蟀”": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "“蟋蟀”",
+        "tank_name_s": "“蟋蟀”",
+        "tank_url": "G23_Grille",
+        "tank_id": 5649
+    },
+    "germany_“黄蜂”": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "“黄蜂”",
+        "tank_name_s": "“黄蜂”",
+        "tank_url": "G19_Wespe",
+        "tank_id": 5905
+    },
+    "france_洛林155 50": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "洛林155 50",
+        "tank_name_s": "洛林155 50",
+        "tank_url": "F24_Lorraine155_50",
+        "tank_id": 7233
+    },
+    "usa_M40/M43": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 8,
+        "tank_name": "M40/M43",
+        "tank_name_s": "M40/M43",
+        "tank_url": "A37_M40M43",
+        "tank_id": 7457
+    },
+    "france_洛林155 51": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 8,
+        "tank_name": "洛林155 51",
+        "tank_name_s": "洛林155 51",
+        "tank_url": "F25_Lorraine155_51",
+        "tank_id": 7489
+    },
+    "ussr_SU-26": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "SU-26",
+        "tank_name_s": "SU-26",
+        "tank_url": "R66_SU-26",
+        "tank_id": 7681
+    },
+    "usa_M12": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "M12",
+        "tank_name_s": "M12",
+        "tank_url": "A32_M12",
+        "tank_id": 7969
+    },
+    "ussr_212工程": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 9,
+        "tank_name": "212工程",
+        "tank_name_s": "212工程",
+        "tank_url": "R51_Object_212",
+        "tank_id": 8449
+    },
+    "usa_T92": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 10,
+        "tank_name": "T92",
+        "tank_name_s": "T92",
+        "tank_url": "A38_T92",
+        "tank_id": 8481
+    },
+    "ussr_261工程": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 10,
+        "tank_name": "261工程",
+        "tank_name_s": "261工程",
+        "tank_url": "R52_Object_261",
+        "tank_id": 8705
+    },
+    "germany_“虎”式自行火炮": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 9,
+        "tank_name": "“虎”式自行火炮",
+        "tank_name_s": "“虎”式自行火炮",
+        "tank_url": "G45_G_Tiger",
+        "tank_id": 8721
+    },
+    "germany_“黑豹”自行火炮": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "“黑豹”自行火炮",
+        "tank_name_s": "“黑豹”自行火炮",
+        "tank_url": "G49_G_Panther",
+        "tank_id": 8977
+    },
+    "germany_Gw E系列": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 10,
+        "tank_name": "Gw E系列",
+        "tank_name_s": "Gw E系列",
+        "tank_url": "G61_G_E",
+        "tank_id": 9233
+    },
+    "uk_劳埃德 GC": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 2,
+        "tank_name": "劳埃德 GC",
+        "tank_name_s": "劳埃德 GC",
+        "tank_url": "GB25_Loyd_Gun_Carriage",
+        "tank_id": 10577
+    },
+    "uk_\"笞杖\"": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "\"笞杖\"",
+        "tank_name_s": "\"笞杖\"",
+        "tank_url": "GB26_Birch_Gun",
+        "tank_id": 10833
+    },
+    "uk_\"主教\"": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "\"主教\"",
+        "tank_name_s": "\"主教\"",
+        "tank_url": "GB28_Bishop",
+        "tank_id": 11089
+    },
+    "uk_十字军 SP": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "十字军 SP",
+        "tank_name_s": "十字军 SP",
+        "tank_url": "GB29_Crusader_5inch",
+        "tank_id": 11345
+    },
+    "uk_FV3805": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 9,
+        "tank_name": "FV3805",
+        "tank_name_s": "FV3805",
+        "tank_url": "GB30_FV3805",
+        "tank_id": 11601
+    },
+    "france_查狄伦 155": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 10,
+        "tank_name": "查狄伦 155",
+        "tank_name_s": "查狄伦 155",
+        "tank_url": "F38_Bat_Chatillon155_58",
+        "tank_id": 11841
+    },
+    "uk_FV304": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 6,
+        "tank_name": "FV304",
+        "tank_name_s": "FV304",
+        "tank_url": "GB77_FV304",
+        "tank_id": 11857
+    },
+    "uk_FV207": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 8,
+        "tank_name": "FV207",
+        "tank_name_s": "FV207",
+        "tank_url": "GB79_FV206",
+        "tank_id": 12113
+    },
+    "uk_征服者GC": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 10,
+        "tank_name": "征服者GC",
+        "tank_name_s": "征服者GC",
+        "tank_url": "GB31_Conqueror_Gun",
+        "tank_id": 12369
+    },
+    "france_查狄伦155 55": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 9,
+        "tank_name": "查狄伦155 55",
+        "tank_name_s": "查狄伦155 55",
+        "tank_url": "F67_Bat_Chatillon155_55",
+        "tank_id": 14401
+    },
+    "france_AMX 105 AM 47": {
+        "tank_nation": "france",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "AMX 105 AM 47",
+        "tank_name_s": "AMX 105 AM 47",
+        "tank_url": "F66_AMX_Ob_Am105",
+        "tank_id": 14657
+    },
+    "germany_G.Pz.Mk.VI": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 2,
+        "tank_name": "G.Pz.Mk.VI",
+        "tank_name_s": "G.Pz.Mk.VI",
+        "tank_url": "G93_GW_Mk_VIe",
+        "tank_id": 15121
+    },
+    "germany_Gw 虎(P)": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 8,
+        "tank_name": "Gw 虎(P)",
+        "tank_name_s": "Gw 虎(P)",
+        "tank_url": "G94_GW_Tiger_P",
+        "tank_id": 15377
+    },
+    "germany_10.5 cm Sfi IVB": {
+        "tank_nation": "germany",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "10.5 cm Sfi IVB",
+        "tank_name_s": "10.5 cm Sfi IVB",
+        "tank_url": "G95_Pz_Sfl_IVb",
+        "tank_id": 15633
+    },
+    "ussr_SU-14-1": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 7,
+        "tank_name": "SU-14-1",
+        "tank_name_s": "SU-14-1",
+        "tank_url": "R91_SU14_1",
+        "tank_id": 16129
+    },
+    "usa_M53/M55": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 9,
+        "tank_name": "M53/M55",
+        "tank_name_s": "M53/M55",
+        "tank_url": "A88_M53_55",
+        "tank_id": 16161
+    },
+    "ussr_SU-122A": {
+        "tank_nation": "ussr",
+        "tank_type": "SPG",
+        "tank_rank": 5,
+        "tank_name": "SU-122A",
+        "tank_name_s": "SU-122A",
+        "tank_url": "R100_SU122A",
+        "tank_id": 16385
+    },
+    "usa_M44": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 6,
+        "tank_name": "M44",
+        "tank_name_s": "M44",
+        "tank_url": "A87_M44",
+        "tank_id": 16417
+    },
+    "usa_T18 HMC": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "T18 HMC",
+        "tank_name_s": "T18 HMC",
+        "tank_url": "A108_T18_HMC",
+        "tank_id": 18465
+    },
+    "usa_T82 HMC": {
+        "tank_nation": "usa",
+        "tank_type": "SPG",
+        "tank_rank": 4,
+        "tank_name": "T82 HMC",
+        "tank_name_s": "T82 HMC",
+        "tank_url": "A27_T82",
+        "tank_id": 18721
+    },
+    "uk_司事 I": {
+        "tank_nation": "uk",
+        "tank_type": "SPG",
+        "tank_rank": 3,
+        "tank_name": "司事 I",
+        "tank_name_s": "司事 I",
+        "tank_url": "GB78_Sexton_I",
+        "tank_id": 54609
+    }
+}
